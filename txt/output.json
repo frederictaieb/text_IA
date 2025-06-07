@@ -4,31 +4,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.9485
+        "score": 0.9485251903533936
       },
       {
         "label": "neutral",
-        "score": 0.0241
+        "score": 0.02414492703974247
       },
       {
         "label": "surprise",
-        "score": 0.0142
+        "score": 0.014176768250763416
       },
       {
         "label": "disgust",
-        "score": 0.0046
+        "score": 0.004611430689692497
       },
       {
         "label": "fear",
-        "score": 0.0046
+        "score": 0.004601940978318453
       },
       {
         "label": "joy",
-        "score": 0.0025
+        "score": 0.0024928003549575806
       },
       {
         "label": "anger",
-        "score": 0.0014
+        "score": 0.0014469786547124386
       }
     ]
   },
@@ -37,31 +37,31 @@
     "emotions": [
       {
         "label": "fear",
-        "score": 0.8655
+        "score": 0.8654903769493103
       },
       {
         "label": "neutral",
-        "score": 0.0545
+        "score": 0.054453834891319275
       },
       {
         "label": "sadness",
-        "score": 0.0509
+        "score": 0.05092848837375641
       },
       {
         "label": "disgust",
-        "score": 0.0164
+        "score": 0.016394535079598427
       },
       {
         "label": "anger",
-        "score": 0.0068
+        "score": 0.006779887713491917
       },
       {
         "label": "surprise",
-        "score": 0.0039
+        "score": 0.0038568591699004173
       },
       {
         "label": "joy",
-        "score": 0.0021
+        "score": 0.002095958450809121
       }
     ]
   },
@@ -70,31 +70,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.8974
+        "score": 0.8974031805992126
       },
       {
         "label": "surprise",
-        "score": 0.0249
+        "score": 0.024869024753570557
       },
       {
         "label": "disgust",
-        "score": 0.0215
+        "score": 0.021505512297153473
       },
       {
         "label": "sadness",
-        "score": 0.0202
+        "score": 0.020160937681794167
       },
       {
         "label": "joy",
-        "score": 0.0156
+        "score": 0.015602084808051586
       },
       {
         "label": "anger",
-        "score": 0.0107
+        "score": 0.010713169351220131
       },
       {
         "label": "fear",
-        "score": 0.0097
+        "score": 0.009746106341481209
       }
     ]
   },
@@ -103,31 +103,31 @@
     "emotions": [
       {
         "label": "fear",
-        "score": 0.6533
+        "score": 0.6533134579658508
       },
       {
         "label": "neutral",
-        "score": 0.2077
+        "score": 0.20772363245487213
       },
       {
         "label": "disgust",
-        "score": 0.0726
+        "score": 0.07262314856052399
       },
       {
         "label": "sadness",
-        "score": 0.033
+        "score": 0.032960645854473114
       },
       {
         "label": "anger",
-        "score": 0.0178
+        "score": 0.017777450382709503
       },
       {
         "label": "surprise",
-        "score": 0.0128
+        "score": 0.012829924933612347
       },
       {
         "label": "joy",
-        "score": 0.0028
+        "score": 0.0027717931661754847
       }
     ]
   },
@@ -136,31 +136,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.8168
+        "score": 0.816840648651123
       },
       {
         "label": "disgust",
-        "score": 0.0998
+        "score": 0.09984088689088821
       },
       {
         "label": "anger",
-        "score": 0.042
+        "score": 0.04198318347334862
       },
       {
         "label": "fear",
-        "score": 0.0216
+        "score": 0.02159871719777584
       },
       {
         "label": "sadness",
-        "score": 0.007
+        "score": 0.006994117982685566
       },
       {
         "label": "joy",
-        "score": 0.007
+        "score": 0.006955448538064957
       },
       {
         "label": "surprise",
-        "score": 0.0058
+        "score": 0.0057869888842105865
       }
     ]
   },
@@ -169,31 +169,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.846
+        "score": 0.8460350036621094
       },
       {
         "label": "disgust",
-        "score": 0.0582
+        "score": 0.05821514502167702
       },
       {
         "label": "surprise",
-        "score": 0.0383
+        "score": 0.0382985919713974
       },
       {
         "label": "anger",
-        "score": 0.0236
+        "score": 0.023649301379919052
       },
       {
         "label": "sadness",
-        "score": 0.0221
+        "score": 0.022128013893961906
       },
       {
         "label": "fear",
-        "score": 0.0062
+        "score": 0.0061508105136454105
       },
       {
         "label": "joy",
-        "score": 0.0055
+        "score": 0.005523115862160921
       }
     ]
   },
@@ -202,31 +202,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.9828
+        "score": 0.982842743396759
       },
       {
         "label": "neutral",
-        "score": 0.0076
+        "score": 0.0076220836490392685
       },
       {
         "label": "surprise",
-        "score": 0.0033
+        "score": 0.0033330649603158236
       },
       {
         "label": "disgust",
-        "score": 0.0028
+        "score": 0.00278073875233531
       },
       {
         "label": "fear",
-        "score": 0.0015
+        "score": 0.0014520472614094615
       },
       {
         "label": "joy",
-        "score": 0.0013
+        "score": 0.0012818733230233192
       },
       {
         "label": "anger",
-        "score": 0.0007
+        "score": 0.0006874443497508764
       }
     ]
   },
@@ -235,31 +235,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.8423
+        "score": 0.8422580361366272
       },
       {
         "label": "neutral",
-        "score": 0.0872
+        "score": 0.0871867835521698
       },
       {
         "label": "anger",
-        "score": 0.0336
+        "score": 0.03360700607299805
       },
       {
         "label": "fear",
-        "score": 0.0181
+        "score": 0.01810631901025772
       },
       {
         "label": "sadness",
-        "score": 0.0144
+        "score": 0.014429157599806786
       },
       {
         "label": "surprise",
-        "score": 0.0037
+        "score": 0.0036673927679657936
       },
       {
         "label": "joy",
-        "score": 0.0007
+        "score": 0.0007452074787579477
       }
     ]
   },
@@ -268,31 +268,31 @@
     "emotions": [
       {
         "label": "joy",
-        "score": 0.9496
+        "score": 0.9495906829833984
       },
       {
         "label": "neutral",
-        "score": 0.0342
+        "score": 0.03417698293924332
       },
       {
         "label": "surprise",
-        "score": 0.005
+        "score": 0.005014754366129637
       },
       {
         "label": "sadness",
-        "score": 0.0049
+        "score": 0.004898996092379093
       },
       {
         "label": "disgust",
-        "score": 0.0034
+        "score": 0.003423976479098201
       },
       {
         "label": "anger",
-        "score": 0.002
+        "score": 0.002039642073214054
       },
       {
         "label": "fear",
-        "score": 0.0009
+        "score": 0.0008549543563276529
       }
     ]
   },
@@ -301,31 +301,31 @@
     "emotions": [
       {
         "label": "joy",
-        "score": 0.9025
+        "score": 0.9024967551231384
       },
       {
         "label": "neutral",
-        "score": 0.0674
+        "score": 0.06735172867774963
       },
       {
         "label": "disgust",
-        "score": 0.0142
+        "score": 0.014207638800144196
       },
       {
         "label": "anger",
-        "score": 0.0069
+        "score": 0.0069396039471030235
       },
       {
         "label": "surprise",
-        "score": 0.0055
+        "score": 0.0055020530708134174
       },
       {
         "label": "sadness",
-        "score": 0.003
+        "score": 0.0029664356261491776
       },
       {
         "label": "fear",
-        "score": 0.0005
+        "score": 0.000535748025868088
       }
     ]
   },
@@ -334,31 +334,31 @@
     "emotions": [
       {
         "label": "surprise",
-        "score": 0.908
+        "score": 0.9079670906066895
       },
       {
         "label": "neutral",
-        "score": 0.0499
+        "score": 0.0499112643301487
       },
       {
         "label": "disgust",
-        "score": 0.0186
+        "score": 0.018614770844578743
       },
       {
         "label": "anger",
-        "score": 0.0128
+        "score": 0.012773700058460236
       },
       {
         "label": "sadness",
-        "score": 0.0067
+        "score": 0.006687360815703869
       },
       {
         "label": "joy",
-        "score": 0.0021
+        "score": 0.002106140600517392
       },
       {
         "label": "fear",
-        "score": 0.0019
+        "score": 0.0019397163996472955
       }
     ]
   },
@@ -367,31 +367,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.4256
+        "score": 0.42564645409584045
       },
       {
         "label": "disgust",
-        "score": 0.4059
+        "score": 0.40589603781700134
       },
       {
         "label": "surprise",
-        "score": 0.0671
+        "score": 0.06705816835165024
       },
       {
         "label": "sadness",
-        "score": 0.0406
+        "score": 0.040555473417043686
       },
       {
         "label": "fear",
-        "score": 0.0323
+        "score": 0.03234796226024628
       },
       {
         "label": "anger",
-        "score": 0.0263
+        "score": 0.026309631764888763
       },
       {
         "label": "joy",
-        "score": 0.0022
+        "score": 0.002186273690313101
       }
     ]
   },
@@ -400,31 +400,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.8672
+        "score": 0.8672084808349609
       },
       {
         "label": "neutral",
-        "score": 0.0454
+        "score": 0.04536380618810654
       },
       {
         "label": "fear",
-        "score": 0.0273
+        "score": 0.027312638238072395
       },
       {
         "label": "surprise",
-        "score": 0.0268
+        "score": 0.02680499106645584
       },
       {
         "label": "disgust",
-        "score": 0.0228
+        "score": 0.02279496192932129
       },
       {
         "label": "anger",
-        "score": 0.0086
+        "score": 0.008592198602855206
       },
       {
         "label": "joy",
-        "score": 0.0019
+        "score": 0.0019229723839089274
       }
     ]
   },
@@ -433,31 +433,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.6655
+        "score": 0.6654767394065857
       },
       {
         "label": "fear",
-        "score": 0.1082
+        "score": 0.10815474390983582
       },
       {
         "label": "sadness",
-        "score": 0.0809
+        "score": 0.08093583583831787
       },
       {
         "label": "surprise",
-        "score": 0.0617
+        "score": 0.061743538826704025
       },
       {
         "label": "neutral",
-        "score": 0.0427
+        "score": 0.04269945248961449
       },
       {
         "label": "anger",
-        "score": 0.0388
+        "score": 0.0387861542403698
       },
       {
         "label": "joy",
-        "score": 0.0022
+        "score": 0.002203556476160884
       }
     ]
   },
@@ -466,31 +466,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.4699
+        "score": 0.46986979246139526
       },
       {
         "label": "neutral",
-        "score": 0.2946
+        "score": 0.29458919167518616
       },
       {
         "label": "disgust",
-        "score": 0.1176
+        "score": 0.11762893199920654
       },
       {
         "label": "fear",
-        "score": 0.0632
+        "score": 0.0631503164768219
       },
       {
         "label": "surprise",
-        "score": 0.0251
+        "score": 0.02506670542061329
       },
       {
         "label": "anger",
-        "score": 0.0211
+        "score": 0.021140269935131073
       },
       {
         "label": "joy",
-        "score": 0.0086
+        "score": 0.00855475664138794
       }
     ]
   },
@@ -499,31 +499,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.5634
+        "score": 0.5634453892707825
       },
       {
         "label": "fear",
-        "score": 0.3229
+        "score": 0.3229316174983978
       },
       {
         "label": "neutral",
-        "score": 0.0925
+        "score": 0.09250294417142868
       },
       {
         "label": "disgust",
-        "score": 0.0082
+        "score": 0.008202336728572845
       },
       {
         "label": "surprise",
-        "score": 0.0047
+        "score": 0.004685541614890099
       },
       {
         "label": "joy",
-        "score": 0.0043
+        "score": 0.004324825946241617
       },
       {
         "label": "anger",
-        "score": 0.0039
+        "score": 0.003907285165041685
       }
     ]
   },
@@ -532,31 +532,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.859
+        "score": 0.8589657545089722
       },
       {
         "label": "sadness",
-        "score": 0.0453
+        "score": 0.04533004015684128
       },
       {
         "label": "disgust",
-        "score": 0.0408
+        "score": 0.04081243649125099
       },
       {
         "label": "surprise",
-        "score": 0.021
+        "score": 0.020951738581061363
       },
       {
         "label": "fear",
-        "score": 0.0184
+        "score": 0.018380358815193176
       },
       {
         "label": "anger",
-        "score": 0.0112
+        "score": 0.011220688000321388
       },
       {
         "label": "joy",
-        "score": 0.0043
+        "score": 0.004339112434536219
       }
     ]
   },
@@ -565,31 +565,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.4725
+        "score": 0.47245436906814575
       },
       {
         "label": "surprise",
-        "score": 0.2445
+        "score": 0.24449223279953003
       },
       {
         "label": "fear",
-        "score": 0.1502
+        "score": 0.1501697152853012
       },
       {
         "label": "sadness",
-        "score": 0.0541
+        "score": 0.054083410650491714
       },
       {
         "label": "disgust",
-        "score": 0.0455
+        "score": 0.04554777219891548
       },
       {
         "label": "anger",
-        "score": 0.0306
+        "score": 0.030580798164010048
       },
       {
         "label": "joy",
-        "score": 0.0027
+        "score": 0.002671648981049657
       }
     ]
   },
@@ -598,31 +598,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.4622
+        "score": 0.46218153834342957
       },
       {
         "label": "disgust",
-        "score": 0.2268
+        "score": 0.22681142389774323
       },
       {
         "label": "surprise",
-        "score": 0.1603
+        "score": 0.160321906208992
       },
       {
         "label": "anger",
-        "score": 0.1195
+        "score": 0.11945166438817978
       },
       {
         "label": "sadness",
-        "score": 0.0174
+        "score": 0.017438696697354317
       },
       {
         "label": "joy",
-        "score": 0.0069
+        "score": 0.006906639784574509
       },
       {
         "label": "fear",
-        "score": 0.0069
+        "score": 0.0068881758488714695
       }
     ]
   },
@@ -631,31 +631,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.788
+        "score": 0.7880358099937439
       },
       {
         "label": "sadness",
-        "score": 0.088
+        "score": 0.08795887231826782
       },
       {
         "label": "disgust",
-        "score": 0.05
+        "score": 0.049966961145401
       },
       {
         "label": "anger",
-        "score": 0.0366
+        "score": 0.03660309314727783
       },
       {
         "label": "surprise",
-        "score": 0.0196
+        "score": 0.019599543884396553
       },
       {
         "label": "fear",
-        "score": 0.0157
+        "score": 0.015696320682764053
       },
       {
         "label": "joy",
-        "score": 0.0021
+        "score": 0.0021394838113337755
       }
     ]
   },
@@ -664,31 +664,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.8076
+        "score": 0.807579755783081
       },
       {
         "label": "sadness",
-        "score": 0.0914
+        "score": 0.09137346595525742
       },
       {
         "label": "joy",
-        "score": 0.0498
+        "score": 0.04978233948349953
       },
       {
         "label": "disgust",
-        "score": 0.0346
+        "score": 0.03464347496628761
       },
       {
         "label": "fear",
-        "score": 0.0063
+        "score": 0.006274902727454901
       },
       {
         "label": "anger",
-        "score": 0.0057
+        "score": 0.005650097969919443
       },
       {
         "label": "surprise",
-        "score": 0.0047
+        "score": 0.00469588115811348
       }
     ]
   },
@@ -697,31 +697,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.9162
+        "score": 0.9161625504493713
       },
       {
         "label": "anger",
-        "score": 0.0362
+        "score": 0.03624629229307175
       },
       {
         "label": "surprise",
-        "score": 0.0118
+        "score": 0.011830786243081093
       },
       {
         "label": "disgust",
-        "score": 0.0113
+        "score": 0.011301941238343716
       },
       {
         "label": "fear",
-        "score": 0.0107
+        "score": 0.010747215710580349
       },
       {
         "label": "sadness",
-        "score": 0.008
+        "score": 0.008011613972485065
       },
       {
         "label": "joy",
-        "score": 0.0057
+        "score": 0.00569960568100214
       }
     ]
   },
@@ -730,31 +730,31 @@
     "emotions": [
       {
         "label": "joy",
-        "score": 0.7209
+        "score": 0.7209488749504089
       },
       {
         "label": "neutral",
-        "score": 0.1427
+        "score": 0.14268401265144348
       },
       {
         "label": "surprise",
-        "score": 0.0552
+        "score": 0.05515867471694946
       },
       {
         "label": "disgust",
-        "score": 0.0359
+        "score": 0.0358952060341835
       },
       {
         "label": "anger",
-        "score": 0.0242
+        "score": 0.024233823642134666
       },
       {
         "label": "sadness",
-        "score": 0.0174
+        "score": 0.017383374273777008
       },
       {
         "label": "fear",
-        "score": 0.0037
+        "score": 0.003696138272061944
       }
     ]
   },
@@ -763,31 +763,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.6364
+        "score": 0.6363872289657593
       },
       {
         "label": "disgust",
-        "score": 0.2529
+        "score": 0.25290513038635254
       },
       {
         "label": "anger",
-        "score": 0.0453
+        "score": 0.04526757821440697
       },
       {
         "label": "joy",
-        "score": 0.0391
+        "score": 0.039082810282707214
       },
       {
         "label": "sadness",
-        "score": 0.0166
+        "score": 0.01664469577372074
       },
       {
         "label": "surprise",
-        "score": 0.0053
+        "score": 0.005255185998976231
       },
       {
         "label": "fear",
-        "score": 0.0045
+        "score": 0.004457333590835333
       }
     ]
   },
@@ -796,31 +796,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.984
+        "score": 0.9839515686035156
       },
       {
         "label": "neutral",
-        "score": 0.0069
+        "score": 0.006932410877197981
       },
       {
         "label": "disgust",
-        "score": 0.0035
+        "score": 0.00352293299511075
       },
       {
         "label": "anger",
-        "score": 0.0015
+        "score": 0.0014967018505558372
       },
       {
         "label": "joy",
-        "score": 0.0014
+        "score": 0.0014311352279037237
       },
       {
         "label": "surprise",
-        "score": 0.0014
+        "score": 0.0013745627366006374
       },
       {
         "label": "fear",
-        "score": 0.0013
+        "score": 0.0012907335767522454
       }
     ]
   },
@@ -829,31 +829,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.6976
+        "score": 0.697648823261261
       },
       {
         "label": "surprise",
-        "score": 0.2139
+        "score": 0.2139340341091156
       },
       {
         "label": "disgust",
-        "score": 0.0334
+        "score": 0.03340272232890129
       },
       {
         "label": "anger",
-        "score": 0.0266
+        "score": 0.02662169560790062
       },
       {
         "label": "fear",
-        "score": 0.0188
+        "score": 0.018771715462207794
       },
       {
         "label": "sadness",
-        "score": 0.0059
+        "score": 0.0059117842465639114
       },
       {
         "label": "joy",
-        "score": 0.0037
+        "score": 0.0037092396523803473
       }
     ]
   },
@@ -862,31 +862,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.7359
+        "score": 0.7358601689338684
       },
       {
         "label": "neutral",
-        "score": 0.1765
+        "score": 0.17649240791797638
       },
       {
         "label": "disgust",
-        "score": 0.0504
+        "score": 0.05040404200553894
       },
       {
         "label": "anger",
-        "score": 0.013
+        "score": 0.012984863482415676
       },
       {
         "label": "fear",
-        "score": 0.0111
+        "score": 0.011131541803479195
       },
       {
         "label": "surprise",
-        "score": 0.0101
+        "score": 0.010087323375046253
       },
       {
         "label": "joy",
-        "score": 0.003
+        "score": 0.003039630828425288
       }
     ]
   },
@@ -895,97 +895,64 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.6105
+        "score": 0.6104891896247864
       },
       {
         "label": "neutral",
-        "score": 0.2578
+        "score": 0.2578344941139221
       },
       {
         "label": "fear",
-        "score": 0.0619
+        "score": 0.06188971549272537
       },
       {
         "label": "surprise",
-        "score": 0.024
+        "score": 0.024031009525060654
       },
       {
         "label": "disgust",
-        "score": 0.0232
+        "score": 0.023195620626211166
       },
       {
         "label": "anger",
-        "score": 0.0171
+        "score": 0.017117680981755257
       },
       {
         "label": "joy",
-        "score": 0.0054
+        "score": 0.005442291498184204
       }
     ]
   },
   {
-    "text": "But into something sharper.",
-    "emotions": [
-      {
-        "label": "neutral",
-        "score": 0.4168
-      },
-      {
-        "label": "disgust",
-        "score": 0.265
-      },
-      {
-        "label": "anger",
-        "score": 0.1586
-      },
-      {
-        "label": "surprise",
-        "score": 0.0682
-      },
-      {
-        "label": "sadness",
-        "score": 0.053
-      },
-      {
-        "label": "fear",
-        "score": 0.0348
-      },
-      {
-        "label": "joy",
-        "score": 0.0035
-      }
-    ]
-  },
-  {
-    "text": "Anger.",
+    "text": "But into something sharper.\n\nAnger.",
     "emotions": [
       {
         "label": "anger",
-        "score": 0.9708
+        "score": 0.9734960794448853
       },
       {
         "label": "disgust",
-        "score": 0.0156
-      },
-      {
-        "label": "sadness",
-        "score": 0.0055
+        "score": 0.013336209580302238
       },
       {
         "label": "neutral",
-        "score": 0.0054
+        "score": 0.0058788517490029335
+      },
+      {
+        "label": "sadness",
+        "score": 0.003765386762097478
       },
       {
         "label": "fear",
-        "score": 0.0012
+        "score": 0.0019270929042249918
       },
       {
         "label": "surprise",
-        "score": 0.0009
+        "score": 0.0010097605409100652
       },
       {
         "label": "joy",
-        "score": 0.0006
+        "score": 0.0005865920102223754
       }
     ]
   },
@@ -994,31 +961,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.8299
+        "score": 0.8298824429512024
       },
       {
         "label": "surprise",
-        "score": 0.0423
+        "score": 0.04229595884680748
       },
       {
         "label": "fear",
-        "score": 0.0402
+        "score": 0.040156036615371704
       },
       {
         "label": "disgust",
-        "score": 0.0401
+        "score": 0.04012035205960274
       },
       {
         "label": "anger",
-        "score": 0.0325
+        "score": 0.032519109547138214
       },
       {
         "label": "joy",
-        "score": 0.0109
+        "score": 0.010881895199418068
       },
       {
         "label": "sadness",
-        "score": 0.0041
+        "score": 0.004144126549363136
       }
     ]
   },
@@ -1027,31 +994,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.8275
+        "score": 0.8274611234664917
       },
       {
         "label": "anger",
-        "score": 0.1551
+        "score": 0.1550549566745758
       },
       {
         "label": "neutral",
-        "score": 0.0088
+        "score": 0.008762134239077568
       },
       {
         "label": "sadness",
-        "score": 0.0028
+        "score": 0.0028467043302953243
       },
       {
         "label": "fear",
-        "score": 0.0027
+        "score": 0.002721628872677684
       },
       {
         "label": "surprise",
-        "score": 0.0027
+        "score": 0.002714668633416295
       },
       {
         "label": "joy",
-        "score": 0.0004
+        "score": 0.0004388372180983424
       }
     ]
   },
@@ -1060,31 +1027,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.3158
+        "score": 0.3157792091369629
       },
       {
         "label": "neutral",
-        "score": 0.2701
+        "score": 0.27008283138275146
       },
       {
         "label": "disgust",
-        "score": 0.2161
+        "score": 0.21612121164798737
       },
       {
         "label": "anger",
-        "score": 0.0948
+        "score": 0.09476861357688904
       },
       {
         "label": "surprise",
-        "score": 0.0886
+        "score": 0.08857326954603195
       },
       {
         "label": "fear",
-        "score": 0.0108
+        "score": 0.010802933014929295
       },
       {
         "label": "joy",
-        "score": 0.0039
+        "score": 0.0038719254080206156
       }
     ]
   },
@@ -1093,31 +1060,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.5911
+        "score": 0.5911081433296204
       },
       {
         "label": "neutral",
-        "score": 0.1808
+        "score": 0.18076828122138977
       },
       {
         "label": "surprise",
-        "score": 0.085
+        "score": 0.08503734320402145
       },
       {
         "label": "anger",
-        "score": 0.0688
+        "score": 0.06884315609931946
       },
       {
         "label": "fear",
-        "score": 0.0363
+        "score": 0.03631412237882614
       },
       {
         "label": "sadness",
-        "score": 0.0346
+        "score": 0.034566864371299744
       },
       {
         "label": "joy",
-        "score": 0.0034
+        "score": 0.0033619930036365986
       }
     ]
   },
@@ -1126,31 +1093,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.551
+        "score": 0.5509521961212158
       },
       {
         "label": "anger",
-        "score": 0.1854
+        "score": 0.1854155957698822
       },
       {
         "label": "disgust",
-        "score": 0.1273
+        "score": 0.12734158337116241
       },
       {
         "label": "fear",
-        "score": 0.0947
+        "score": 0.09471860527992249
       },
       {
         "label": "surprise",
-        "score": 0.0191
+        "score": 0.019126517698168755
       },
       {
         "label": "sadness",
-        "score": 0.0163
+        "score": 0.01627287268638611
       },
       {
         "label": "joy",
-        "score": 0.0062
+        "score": 0.006172590423375368
       }
     ]
   },
@@ -1159,31 +1126,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.553
+        "score": 0.552967369556427
       },
       {
         "label": "anger",
-        "score": 0.2464
+        "score": 0.24641235172748566
       },
       {
         "label": "neutral",
-        "score": 0.1547
+        "score": 0.1546510010957718
       },
       {
         "label": "sadness",
-        "score": 0.0247
+        "score": 0.024719100445508957
       },
       {
         "label": "surprise",
-        "score": 0.0127
+        "score": 0.012664425186812878
       },
       {
         "label": "fear",
-        "score": 0.007
+        "score": 0.006996178068220615
       },
       {
         "label": "joy",
-        "score": 0.0016
+        "score": 0.001589546911418438
       }
     ]
   },
@@ -1192,31 +1159,31 @@
     "emotions": [
       {
         "label": "anger",
-        "score": 0.8066
+        "score": 0.8065604567527771
       },
       {
         "label": "fear",
-        "score": 0.1408
+        "score": 0.14077728986740112
       },
       {
         "label": "disgust",
-        "score": 0.0211
+        "score": 0.021131617948412895
       },
       {
         "label": "neutral",
-        "score": 0.0129
+        "score": 0.01285787858068943
       },
       {
         "label": "sadness",
-        "score": 0.0086
+        "score": 0.008568540215492249
       },
       {
         "label": "surprise",
-        "score": 0.0083
+        "score": 0.008283702656626701
       },
       {
         "label": "joy",
-        "score": 0.0018
+        "score": 0.0018204698571935296
       }
     ]
   },
@@ -1225,31 +1192,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.8988
+        "score": 0.8988474607467651
       },
       {
         "label": "disgust",
-        "score": 0.0568
+        "score": 0.05676693469285965
       },
       {
         "label": "anger",
-        "score": 0.0239
+        "score": 0.023923270404338837
       },
       {
         "label": "surprise",
-        "score": 0.0078
+        "score": 0.007782593369483948
       },
       {
         "label": "sadness",
-        "score": 0.0071
+        "score": 0.007087439764291048
       },
       {
         "label": "fear",
-        "score": 0.0034
+        "score": 0.0034342145081609488
       },
       {
         "label": "joy",
-        "score": 0.0022
+        "score": 0.0021581545006483793
       }
     ]
   },
@@ -1258,31 +1225,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.7329
+        "score": 0.732878565788269
       },
       {
         "label": "sadness",
-        "score": 0.1568
+        "score": 0.15680256485939026
       },
       {
         "label": "fear",
-        "score": 0.0358
+        "score": 0.035763781517744064
       },
       {
         "label": "disgust",
-        "score": 0.0258
+        "score": 0.025835061445832253
       },
       {
         "label": "surprise",
-        "score": 0.0224
+        "score": 0.022416027262806892
       },
       {
         "label": "anger",
-        "score": 0.0212
+        "score": 0.02115834876894951
       },
       {
         "label": "joy",
-        "score": 0.0051
+        "score": 0.005145701114088297
       }
     ]
   },
@@ -1291,31 +1258,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.9066
+        "score": 0.9066449403762817
       },
       {
         "label": "disgust",
-        "score": 0.0398
+        "score": 0.03978202864527702
       },
       {
         "label": "anger",
-        "score": 0.0313
+        "score": 0.03131075203418732
       },
       {
         "label": "joy",
-        "score": 0.0066
+        "score": 0.00660789106041193
       },
       {
         "label": "surprise",
-        "score": 0.0061
+        "score": 0.006139892619103193
       },
       {
         "label": "fear",
-        "score": 0.0058
+        "score": 0.005767032038420439
       },
       {
         "label": "sadness",
-        "score": 0.0037
+        "score": 0.003747341688722372
       }
     ]
   },
@@ -1324,31 +1291,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.9005
+        "score": 0.9005212187767029
       },
       {
         "label": "neutral",
-        "score": 0.0392
+        "score": 0.03918016701936722
       },
       {
         "label": "anger",
-        "score": 0.0251
+        "score": 0.025092605501413345
       },
       {
         "label": "disgust",
-        "score": 0.0223
+        "score": 0.022282814607024193
       },
       {
         "label": "surprise",
-        "score": 0.0083
+        "score": 0.00826028548181057
       },
       {
         "label": "fear",
-        "score": 0.0024
+        "score": 0.0024327372666448355
       },
       {
         "label": "joy",
-        "score": 0.0022
+        "score": 0.002230230486020446
       }
     ]
   },
@@ -1357,31 +1324,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.6982
+        "score": 0.6982157826423645
       },
       {
         "label": "disgust",
-        "score": 0.2103
+        "score": 0.21027110517024994
       },
       {
         "label": "sadness",
-        "score": 0.038
+        "score": 0.03796932473778725
       },
       {
         "label": "surprise",
-        "score": 0.0196
+        "score": 0.019584624096751213
       },
       {
         "label": "anger",
-        "score": 0.0189
+        "score": 0.01886775717139244
       },
       {
         "label": "fear",
-        "score": 0.0093
+        "score": 0.009314937517046928
       },
       {
         "label": "joy",
-        "score": 0.0058
+        "score": 0.005776434205472469
       }
     ]
   },
@@ -1390,31 +1357,31 @@
     "emotions": [
       {
         "label": "anger",
-        "score": 0.9813
+        "score": 0.981285810470581
       },
       {
         "label": "sadness",
-        "score": 0.0065
+        "score": 0.006497845519334078
       },
       {
         "label": "fear",
-        "score": 0.004
+        "score": 0.00395638681948185
       },
       {
         "label": "disgust",
-        "score": 0.0037
+        "score": 0.0036703164223581553
       },
       {
         "label": "neutral",
-        "score": 0.0035
+        "score": 0.0034713109489530325
       },
       {
         "label": "joy",
-        "score": 0.0006
+        "score": 0.0005598133429884911
       },
       {
         "label": "surprise",
-        "score": 0.0006
+        "score": 0.0005584405735135078
       }
     ]
   },
@@ -1423,31 +1390,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.479
+        "score": 0.478972464799881
       },
       {
         "label": "sadness",
-        "score": 0.3235
+        "score": 0.3234890103340149
       },
       {
         "label": "fear",
-        "score": 0.0901
+        "score": 0.09005192667245865
       },
       {
         "label": "neutral",
-        "score": 0.0576
+        "score": 0.0575520284473896
       },
       {
         "label": "anger",
-        "score": 0.0266
+        "score": 0.026557032018899918
       },
       {
         "label": "surprise",
-        "score": 0.0183
+        "score": 0.018336838111281395
       },
       {
         "label": "joy",
-        "score": 0.005
+        "score": 0.005040779709815979
       }
     ]
   },
@@ -1456,31 +1423,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.5413
+        "score": 0.5412678718566895
       },
       {
         "label": "anger",
-        "score": 0.2575
+        "score": 0.25753670930862427
       },
       {
         "label": "sadness",
-        "score": 0.1761
+        "score": 0.17609024047851562
       },
       {
         "label": "fear",
-        "score": 0.0109
+        "score": 0.010912943631410599
       },
       {
         "label": "neutral",
-        "score": 0.0099
+        "score": 0.009855312295258045
       },
       {
         "label": "joy",
-        "score": 0.0025
+        "score": 0.002523385686799884
       },
       {
         "label": "surprise",
-        "score": 0.0018
+        "score": 0.0018135295249521732
       }
     ]
   },
@@ -1489,31 +1456,31 @@
     "emotions": [
       {
         "label": "anger",
-        "score": 0.55
+        "score": 0.5500237345695496
       },
       {
         "label": "sadness",
-        "score": 0.3443
+        "score": 0.3442549705505371
       },
       {
         "label": "disgust",
-        "score": 0.0516
+        "score": 0.05163094773888588
       },
       {
         "label": "fear",
-        "score": 0.0388
+        "score": 0.038839858025312424
       },
       {
         "label": "neutral",
-        "score": 0.0104
+        "score": 0.010364248417317867
       },
       {
         "label": "surprise",
-        "score": 0.0027
+        "score": 0.002685304032638669
       },
       {
         "label": "joy",
-        "score": 0.0022
+        "score": 0.002200839575380087
       }
     ]
   },
@@ -1522,31 +1489,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.5656
+        "score": 0.5655884742736816
       },
       {
         "label": "anger",
-        "score": 0.2462
+        "score": 0.24617935717105865
       },
       {
         "label": "disgust",
-        "score": 0.0946
+        "score": 0.09460719674825668
       },
       {
         "label": "fear",
-        "score": 0.0415
+        "score": 0.04145427420735359
       },
       {
         "label": "sadness",
-        "score": 0.0371
+        "score": 0.03705700859427452
       },
       {
         "label": "joy",
-        "score": 0.0076
+        "score": 0.007591295521706343
       },
       {
         "label": "surprise",
-        "score": 0.0075
+        "score": 0.00752244982868433
       }
     ]
   },
@@ -1555,31 +1522,31 @@
     "emotions": [
       {
         "label": "anger",
-        "score": 0.8832
+        "score": 0.8831794261932373
       },
       {
         "label": "fear",
-        "score": 0.0542
+        "score": 0.05424383655190468
       },
       {
         "label": "disgust",
-        "score": 0.033
+        "score": 0.033016327768564224
       },
       {
         "label": "sadness",
-        "score": 0.0199
+        "score": 0.019899718463420868
       },
       {
         "label": "neutral",
-        "score": 0.006
+        "score": 0.006022237241268158
       },
       {
         "label": "surprise",
-        "score": 0.0027
+        "score": 0.0026966265868395567
       },
       {
         "label": "joy",
-        "score": 0.0009
+        "score": 0.0009419429115951061
       }
     ]
   },
@@ -1588,31 +1555,31 @@
     "emotions": [
       {
         "label": "anger",
-        "score": 0.9275
+        "score": 0.9274994134902954
       },
       {
         "label": "disgust",
-        "score": 0.0315
+        "score": 0.03148344159126282
       },
       {
         "label": "fear",
-        "score": 0.0157
+        "score": 0.01566016674041748
       },
       {
         "label": "neutral",
-        "score": 0.0125
+        "score": 0.0125429043546319
       },
       {
         "label": "sadness",
-        "score": 0.011
+        "score": 0.010962428525090218
       },
       {
         "label": "joy",
-        "score": 0.0013
+        "score": 0.0013388496590778232
       },
       {
         "label": "surprise",
-        "score": 0.0005
+        "score": 0.0005126480245962739
       }
     ]
   },
@@ -1621,31 +1588,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.6689
+        "score": 0.6689099669456482
       },
       {
         "label": "disgust",
-        "score": 0.1742
+        "score": 0.17419420182704926
       },
       {
         "label": "neutral",
-        "score": 0.0997
+        "score": 0.09966999292373657
       },
       {
         "label": "surprise",
-        "score": 0.0275
+        "score": 0.02751297876238823
       },
       {
         "label": "fear",
-        "score": 0.0134
+        "score": 0.013399713672697544
       },
       {
         "label": "anger",
-        "score": 0.0121
+        "score": 0.012149658054113388
       },
       {
         "label": "joy",
-        "score": 0.0042
+        "score": 0.00416347524151206
       }
     ]
   },
@@ -1654,31 +1621,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.4882
+        "score": 0.4882293939590454
       },
       {
         "label": "disgust",
-        "score": 0.2696
+        "score": 0.26962241530418396
       },
       {
         "label": "sadness",
-        "score": 0.1553
+        "score": 0.15534068644046783
       },
       {
         "label": "anger",
-        "score": 0.0546
+        "score": 0.05457634851336479
       },
       {
         "label": "fear",
-        "score": 0.0198
+        "score": 0.01982485130429268
       },
       {
         "label": "surprise",
-        "score": 0.0099
+        "score": 0.009884347207844257
       },
       {
         "label": "joy",
-        "score": 0.0025
+        "score": 0.002521890215575695
       }
     ]
   },
@@ -1687,31 +1654,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.594
+        "score": 0.5940381288528442
       },
       {
         "label": "surprise",
-        "score": 0.1901
+        "score": 0.1900564283132553
       },
       {
         "label": "sadness",
-        "score": 0.0717
+        "score": 0.07174741476774216
       },
       {
         "label": "disgust",
-        "score": 0.0543
+        "score": 0.05428552255034447
       },
       {
         "label": "anger",
-        "score": 0.0472
+        "score": 0.04720641300082207
       },
       {
         "label": "fear",
-        "score": 0.0338
+        "score": 0.03376790136098862
       },
       {
         "label": "joy",
-        "score": 0.0089
+        "score": 0.008898194879293442
       }
     ]
   },
@@ -1720,31 +1687,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.6687
+        "score": 0.6687377691268921
       },
       {
         "label": "neutral",
-        "score": 0.1665
+        "score": 0.16648553311824799
       },
       {
         "label": "anger",
-        "score": 0.0815
+        "score": 0.08149327337741852
       },
       {
         "label": "fear",
-        "score": 0.0379
+        "score": 0.037915345281362534
       },
       {
         "label": "surprise",
-        "score": 0.033
+        "score": 0.0330488495528698
       },
       {
         "label": "sadness",
-        "score": 0.0078
+        "score": 0.007795427460223436
       },
       {
         "label": "joy",
-        "score": 0.0045
+        "score": 0.004523783922195435
       }
     ]
   },
@@ -1753,31 +1720,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.5079
+        "score": 0.5079200267791748
       },
       {
         "label": "neutral",
-        "score": 0.3873
+        "score": 0.3873133361339569
       },
       {
         "label": "sadness",
-        "score": 0.0711
+        "score": 0.07111885398626328
       },
       {
         "label": "anger",
-        "score": 0.0197
+        "score": 0.01969342678785324
       },
       {
         "label": "surprise",
-        "score": 0.0059
+        "score": 0.005871403496712446
       },
       {
         "label": "joy",
-        "score": 0.005
+        "score": 0.00502019515261054
       },
       {
         "label": "fear",
-        "score": 0.0031
+        "score": 0.0030627683736383915
       }
     ]
   },
@@ -1786,31 +1753,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.5982
+        "score": 0.5982469916343689
       },
       {
         "label": "neutral",
-        "score": 0.2187
+        "score": 0.21868576109409332
       },
       {
         "label": "anger",
-        "score": 0.1272
+        "score": 0.1272457093000412
       },
       {
         "label": "fear",
-        "score": 0.0282
+        "score": 0.028244972229003906
       },
       {
         "label": "surprise",
-        "score": 0.0133
+        "score": 0.013322902843356133
       },
       {
         "label": "sadness",
-        "score": 0.0082
+        "score": 0.008235476911067963
       },
       {
         "label": "joy",
-        "score": 0.006
+        "score": 0.006018240004777908
       }
     ]
   },
@@ -1819,31 +1786,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.3422
+        "score": 0.3422335386276245
       },
       {
         "label": "neutral",
-        "score": 0.3396
+        "score": 0.3396400809288025
       },
       {
         "label": "surprise",
-        "score": 0.1513
+        "score": 0.15127840638160706
       },
       {
         "label": "sadness",
-        "score": 0.0769
+        "score": 0.0769156664609909
       },
       {
         "label": "anger",
-        "score": 0.0628
+        "score": 0.06284794956445694
       },
       {
         "label": "fear",
-        "score": 0.0232
+        "score": 0.023232394829392433
       },
       {
         "label": "joy",
-        "score": 0.0039
+        "score": 0.003851919202134013
       }
     ]
   },
@@ -1852,31 +1819,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.4626
+        "score": 0.46259021759033203
       },
       {
         "label": "anger",
-        "score": 0.2874
+        "score": 0.287396639585495
       },
       {
         "label": "disgust",
-        "score": 0.1898
+        "score": 0.18977299332618713
       },
       {
         "label": "sadness",
-        "score": 0.0232
+        "score": 0.023235879838466644
       },
       {
         "label": "joy",
-        "score": 0.0219
+        "score": 0.02186311036348343
       },
       {
         "label": "fear",
-        "score": 0.0126
+        "score": 0.012587069533765316
       },
       {
         "label": "surprise",
-        "score": 0.0026
+        "score": 0.0025541249196976423
       }
     ]
   },
@@ -1885,31 +1852,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.5643
+        "score": 0.5642924308776855
       },
       {
         "label": "disgust",
-        "score": 0.2516
+        "score": 0.25157177448272705
       },
       {
         "label": "anger",
-        "score": 0.1281
+        "score": 0.12811578810214996
       },
       {
         "label": "sadness",
-        "score": 0.0385
+        "score": 0.03846044838428497
       },
       {
         "label": "fear",
-        "score": 0.0084
+        "score": 0.008428753353655338
       },
       {
         "label": "surprise",
-        "score": 0.0077
+        "score": 0.007664436008781195
       },
       {
         "label": "joy",
-        "score": 0.0015
+        "score": 0.001466351910494268
       }
     ]
   },
@@ -1918,31 +1885,31 @@
     "emotions": [
       {
         "label": "fear",
-        "score": 0.3637
+        "score": 0.3637318015098572
       },
       {
         "label": "anger",
-        "score": 0.2983
+        "score": 0.298300564289093
       },
       {
         "label": "neutral",
-        "score": 0.2002
+        "score": 0.2001810222864151
       },
       {
         "label": "disgust",
-        "score": 0.0949
+        "score": 0.09492874145507812
       },
       {
         "label": "sadness",
-        "score": 0.0316
+        "score": 0.03155098855495453
       },
       {
         "label": "surprise",
-        "score": 0.009
+        "score": 0.00901355966925621
       },
       {
         "label": "joy",
-        "score": 0.0023
+        "score": 0.002293386496603489
       }
     ]
   },
@@ -1951,31 +1918,31 @@
     "emotions": [
       {
         "label": "anger",
-        "score": 0.9782
+        "score": 0.9782015085220337
       },
       {
         "label": "neutral",
-        "score": 0.0104
+        "score": 0.010397632606327534
       },
       {
         "label": "disgust",
-        "score": 0.005
+        "score": 0.00500733545050025
       },
       {
         "label": "sadness",
-        "score": 0.0032
+        "score": 0.0032066754065454006
       },
       {
         "label": "surprise",
-        "score": 0.0016
+        "score": 0.0015865780878812075
       },
       {
         "label": "fear",
-        "score": 0.0011
+        "score": 0.0011156931286677718
       },
       {
         "label": "joy",
-        "score": 0.0005
+        "score": 0.00048454070929437876
       }
     ]
   },
@@ -1984,31 +1951,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.704
+        "score": 0.7040391564369202
       },
       {
         "label": "neutral",
-        "score": 0.2077
+        "score": 0.20774587988853455
       },
       {
         "label": "sadness",
-        "score": 0.0325
+        "score": 0.03247912973165512
       },
       {
         "label": "anger",
-        "score": 0.0262
+        "score": 0.02617662213742733
       },
       {
         "label": "fear",
-        "score": 0.0203
+        "score": 0.02027684822678566
       },
       {
         "label": "surprise",
-        "score": 0.0054
+        "score": 0.005414904560893774
       },
       {
         "label": "joy",
-        "score": 0.0039
+        "score": 0.0038674818351864815
       }
     ]
   },
@@ -2017,31 +1984,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.7996
+        "score": 0.7996171712875366
       },
       {
         "label": "fear",
-        "score": 0.1187
+        "score": 0.11871511489152908
       },
       {
         "label": "neutral",
-        "score": 0.0314
+        "score": 0.031430888921022415
       },
       {
         "label": "disgust",
-        "score": 0.0201
+        "score": 0.020099066197872162
       },
       {
         "label": "surprise",
-        "score": 0.0164
+        "score": 0.016350585967302322
       },
       {
         "label": "anger",
-        "score": 0.0127
+        "score": 0.012660259380936623
       },
       {
         "label": "joy",
-        "score": 0.0011
+        "score": 0.0011268910020589828
       }
     ]
   },
@@ -2050,31 +2017,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.6844
+        "score": 0.6844437122344971
       },
       {
         "label": "fear",
-        "score": 0.1234
+        "score": 0.12343595921993256
       },
       {
         "label": "disgust",
-        "score": 0.0838
+        "score": 0.08379979431629181
       },
       {
         "label": "neutral",
-        "score": 0.0444
+        "score": 0.04436132311820984
       },
       {
         "label": "surprise",
-        "score": 0.0338
+        "score": 0.03375786542892456
       },
       {
         "label": "anger",
-        "score": 0.0269
+        "score": 0.026895670220255852
       },
       {
         "label": "joy",
-        "score": 0.0033
+        "score": 0.003305658930912614
       }
     ]
   },
@@ -2083,97 +2050,64 @@
     "emotions": [
       {
         "label": "fear",
-        "score": 0.2773
+        "score": 0.27731576561927795
       },
       {
         "label": "anger",
-        "score": 0.2544
+        "score": 0.25439372658729553
       },
       {
         "label": "disgust",
-        "score": 0.1983
+        "score": 0.1982528567314148
       },
       {
         "label": "neutral",
-        "score": 0.1362
+        "score": 0.1361636072397232
       },
       {
         "label": "surprise",
-        "score": 0.0845
+        "score": 0.0844578817486763
       },
       {
         "label": "sadness",
-        "score": 0.0441
+        "score": 0.044120654463768005
       },
       {
         "label": "joy",
-        "score": 0.0053
+        "score": 0.005295535083860159
       }
     ]
   },
   {
-    "text": "And then...",
-    "emotions": [
-      {
-        "label": "neutral",
-        "score": 0.8337
-      },
-      {
-        "label": "surprise",
-        "score": 0.0801
-      },
-      {
-        "label": "anger",
-        "score": 0.0316
-      },
-      {
-        "label": "disgust",
-        "score": 0.0212
-      },
-      {
-        "label": "joy",
-        "score": 0.0148
-      },
-      {
-        "label": "sadness",
-        "score": 0.0115
-      },
-      {
-        "label": "fear",
-        "score": 0.0071
-      }
-    ]
-  },
-  {
-    "text": "I met quiet again.",
+    "text": "And then...\n\nI met quiet again.",
     "emotions": [
       {
         "label": "fear",
-        "score": 0.8341
-      },
-      {
-        "label": "sadness",
-        "score": 0.0984
-      },
-      {
-        "label": "anger",
-        "score": 0.0235
+        "score": 0.36387884616851807
       },
       {
         "label": "surprise",
-        "score": 0.0183
-      },
-      {
-        "label": "disgust",
-        "score": 0.013
+        "score": 0.35859212279319763
       },
       {
         "label": "neutral",
-        "score": 0.0097
+        "score": 0.12359511107206345
+      },
+      {
+        "label": "sadness",
+        "score": 0.07627886533737183
+      },
+      {
+        "label": "anger",
+        "score": 0.036555610597133636
+      },
+      {
+        "label": "disgust",
+        "score": 0.032412879168987274
       },
       {
         "label": "joy",
-        "score": 0.003
+        "score": 0.008686582557857037
       }
     ]
   },
@@ -2182,31 +2116,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.9646
+        "score": 0.9645779132843018
       },
       {
         "label": "neutral",
-        "score": 0.0231
+        "score": 0.02309262566268444
       },
       {
         "label": "disgust",
-        "score": 0.0042
+        "score": 0.004152581561356783
       },
       {
         "label": "surprise",
-        "score": 0.003
+        "score": 0.0030436862725764513
       },
       {
         "label": "fear",
-        "score": 0.0022
+        "score": 0.0021538648288697004
       },
       {
         "label": "joy",
-        "score": 0.0021
+        "score": 0.0020878450013697147
       },
       {
         "label": "anger",
-        "score": 0.0009
+        "score": 0.0008914376376196742
       }
     ]
   },
@@ -2215,31 +2149,31 @@
     "emotions": [
       {
         "label": "anger",
-        "score": 0.9425
+        "score": 0.9425163865089417
       },
       {
         "label": "neutral",
-        "score": 0.0305
+        "score": 0.030454926192760468
       },
       {
         "label": "disgust",
-        "score": 0.0171
+        "score": 0.017119141295552254
       },
       {
         "label": "sadness",
-        "score": 0.0055
+        "score": 0.005485436413437128
       },
       {
         "label": "fear",
-        "score": 0.0022
+        "score": 0.0021674504969269037
       },
       {
         "label": "surprise",
-        "score": 0.0014
+        "score": 0.0013855843571946025
       },
       {
         "label": "joy",
-        "score": 0.0009
+        "score": 0.0008709717076271772
       }
     ]
   },
@@ -2248,31 +2182,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.8322
+        "score": 0.8322042226791382
       },
       {
         "label": "sadness",
-        "score": 0.0598
+        "score": 0.059842053800821304
       },
       {
         "label": "disgust",
-        "score": 0.0431
+        "score": 0.04309263825416565
       },
       {
         "label": "surprise",
-        "score": 0.0429
+        "score": 0.04294168949127197
       },
       {
         "label": "fear",
-        "score": 0.0098
+        "score": 0.009752956219017506
       },
       {
         "label": "joy",
-        "score": 0.0065
+        "score": 0.006549424026161432
       },
       {
         "label": "anger",
-        "score": 0.0056
+        "score": 0.0056169661693274975
       }
     ]
   },
@@ -2281,31 +2215,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.5348
+        "score": 0.5347989797592163
       },
       {
         "label": "surprise",
-        "score": 0.3443
+        "score": 0.344260036945343
       },
       {
         "label": "fear",
-        "score": 0.0539
+        "score": 0.05394063517451286
       },
       {
         "label": "joy",
-        "score": 0.0396
+        "score": 0.03960288316011429
       },
       {
         "label": "anger",
-        "score": 0.0139
+        "score": 0.013854950666427612
       },
       {
         "label": "disgust",
-        "score": 0.0109
+        "score": 0.010908586904406548
       },
       {
         "label": "sadness",
-        "score": 0.0026
+        "score": 0.0026339043397456408
       }
     ]
   },
@@ -2314,31 +2248,31 @@
     "emotions": [
       {
         "label": "joy",
-        "score": 0.9017
+        "score": 0.9017376899719238
       },
       {
         "label": "neutral",
-        "score": 0.0704
+        "score": 0.07041313499212265
       },
       {
         "label": "disgust",
-        "score": 0.0133
+        "score": 0.013286533765494823
       },
       {
         "label": "surprise",
-        "score": 0.0055
+        "score": 0.005498610902577639
       },
       {
         "label": "anger",
-        "score": 0.0039
+        "score": 0.0038500051014125347
       },
       {
         "label": "sadness",
-        "score": 0.0037
+        "score": 0.003710732562467456
       },
       {
         "label": "fear",
-        "score": 0.0015
+        "score": 0.0015032716328278184
       }
     ]
   },
@@ -2347,31 +2281,31 @@
     "emotions": [
       {
         "label": "surprise",
-        "score": 0.5994
+        "score": 0.5993815064430237
       },
       {
         "label": "neutral",
-        "score": 0.1919
+        "score": 0.1918528825044632
       },
       {
         "label": "sadness",
-        "score": 0.0953
+        "score": 0.09534533321857452
       },
       {
         "label": "disgust",
-        "score": 0.0397
+        "score": 0.03973861783742905
       },
       {
         "label": "anger",
-        "score": 0.0357
+        "score": 0.03573773428797722
       },
       {
         "label": "fear",
-        "score": 0.0332
+        "score": 0.03324436396360397
       },
       {
         "label": "joy",
-        "score": 0.0047
+        "score": 0.004699536133557558
       }
     ]
   },
@@ -2380,31 +2314,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.8547
+        "score": 0.8547346591949463
       },
       {
         "label": "surprise",
-        "score": 0.0571
+        "score": 0.057131439447402954
       },
       {
         "label": "disgust",
-        "score": 0.0337
+        "score": 0.033736199140548706
       },
       {
         "label": "anger",
-        "score": 0.0251
+        "score": 0.02506120689213276
       },
       {
         "label": "fear",
-        "score": 0.0146
+        "score": 0.01464369148015976
       },
       {
         "label": "sadness",
-        "score": 0.0107
+        "score": 0.010725922882556915
       },
       {
         "label": "joy",
-        "score": 0.004
+        "score": 0.0039668758399784565
       }
     ]
   },
@@ -2413,31 +2347,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.4454
+        "score": 0.44543951749801636
       },
       {
         "label": "neutral",
-        "score": 0.4124
+        "score": 0.4123997092247009
       },
       {
         "label": "disgust",
-        "score": 0.0436
+        "score": 0.04358626902103424
       },
       {
         "label": "surprise",
-        "score": 0.0356
+        "score": 0.0355992317199707
       },
       {
         "label": "joy",
-        "score": 0.0274
+        "score": 0.027384908869862556
       },
       {
         "label": "fear",
-        "score": 0.0207
+        "score": 0.020700015127658844
       },
       {
         "label": "anger",
-        "score": 0.0149
+        "score": 0.01489035040140152
       }
     ]
   },
@@ -2446,31 +2380,31 @@
     "emotions": [
       {
         "label": "fear",
-        "score": 0.7051
+        "score": 0.7050914168357849
       },
       {
         "label": "anger",
-        "score": 0.1777
+        "score": 0.1776864379644394
       },
       {
         "label": "neutral",
-        "score": 0.0495
+        "score": 0.04946728050708771
       },
       {
         "label": "sadness",
-        "score": 0.0424
+        "score": 0.04243432357907295
       },
       {
         "label": "disgust",
-        "score": 0.0146
+        "score": 0.014593254774808884
       },
       {
         "label": "surprise",
-        "score": 0.0074
+        "score": 0.007360475603491068
       },
       {
         "label": "joy",
-        "score": 0.0034
+        "score": 0.003366821212694049
       }
     ]
   },
@@ -2479,31 +2413,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.6032
+        "score": 0.6032389402389526
       },
       {
         "label": "disgust",
-        "score": 0.1532
+        "score": 0.15323318541049957
       },
       {
         "label": "sadness",
-        "score": 0.0951
+        "score": 0.0951174944639206
       },
       {
         "label": "fear",
-        "score": 0.0605
+        "score": 0.06052543595433235
       },
       {
         "label": "surprise",
-        "score": 0.0561
+        "score": 0.05613921210169792
       },
       {
         "label": "anger",
-        "score": 0.0174
+        "score": 0.01744186319410801
       },
       {
         "label": "joy",
-        "score": 0.0143
+        "score": 0.014303850941359997
       }
     ]
   },
@@ -2512,97 +2446,64 @@
     "emotions": [
       {
         "label": "fear",
-        "score": 0.6168
+        "score": 0.6167904734611511
       },
       {
         "label": "joy",
-        "score": 0.1776
+        "score": 0.17763251066207886
       },
       {
         "label": "disgust",
-        "score": 0.0776
+        "score": 0.07761304080486298
       },
       {
         "label": "neutral",
-        "score": 0.0643
+        "score": 0.06430128216743469
       },
       {
         "label": "surprise",
-        "score": 0.0437
+        "score": 0.043713025748729706
       },
       {
         "label": "sadness",
-        "score": 0.0124
+        "score": 0.012433039955794811
       },
       {
         "label": "anger",
-        "score": 0.0075
+        "score": 0.007516654673963785
       }
     ]
   },
   {
-    "text": "And in that breath, I found something I hadn’t dared to look for:",
+    "text": "And in that breath, I found something I hadn’t dared to look for:\nPeace.",
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.4177
+        "score": 0.8380529880523682
       },
       {
         "label": "disgust",
-        "score": 0.3425
-      },
-      {
-        "label": "surprise",
-        "score": 0.1264
-      },
-      {
-        "label": "fear",
-        "score": 0.0656
+        "score": 0.11670965701341629
       },
       {
         "label": "anger",
-        "score": 0.0383
-      },
-      {
-        "label": "sadness",
-        "score": 0.0053
+        "score": 0.016786428168416023
       },
       {
         "label": "joy",
-        "score": 0.0042
-      }
-    ]
-  },
-  {
-    "text": "Peace.",
-    "emotions": [
-      {
-        "label": "neutral",
-        "score": 0.6934
-      },
-      {
-        "label": "joy",
-        "score": 0.1427
-      },
-      {
-        "label": "disgust",
-        "score": 0.0622
-      },
-      {
-        "label": "sadness",
-        "score": 0.0578
-      },
-      {
-        "label": "anger",
-        "score": 0.0358
-      },
-      {
-        "label": "fear",
-        "score": 0.005
+        "score": 0.009297155775129795
       },
       {
         "label": "surprise",
-        "score": 0.003
+        "score": 0.008463009260594845
+      },
+      {
+        "label": "fear",
+        "score": 0.006277768407016993
+      },
+      {
+        "label": "sadness",
+        "score": 0.004412926267832518
       }
     ]
   },
@@ -2611,31 +2512,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.873
+        "score": 0.8730404376983643
       },
       {
         "label": "surprise",
-        "score": 0.0757
+        "score": 0.07574751228094101
       },
       {
         "label": "anger",
-        "score": 0.0166
+        "score": 0.016572432592511177
       },
       {
         "label": "sadness",
-        "score": 0.0158
+        "score": 0.015751246362924576
       },
       {
         "label": "disgust",
-        "score": 0.0083
+        "score": 0.008284428156912327
       },
       {
         "label": "fear",
-        "score": 0.0075
+        "score": 0.00749176274985075
       },
       {
         "label": "joy",
-        "score": 0.0031
+        "score": 0.0031121850479394197
       }
     ]
   },
@@ -2644,31 +2545,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.8483
+        "score": 0.8483395576477051
       },
       {
         "label": "disgust",
-        "score": 0.091
+        "score": 0.0909872055053711
       },
       {
         "label": "anger",
-        "score": 0.0268
+        "score": 0.026805222034454346
       },
       {
         "label": "sadness",
-        "score": 0.0165
+        "score": 0.016546491533517838
       },
       {
         "label": "fear",
-        "score": 0.0089
+        "score": 0.00885092094540596
       },
       {
         "label": "surprise",
-        "score": 0.0063
+        "score": 0.006295626983046532
       },
       {
         "label": "joy",
-        "score": 0.0022
+        "score": 0.002174976048991084
       }
     ]
   },
@@ -2677,31 +2578,31 @@
     "emotions": [
       {
         "label": "surprise",
-        "score": 0.3214
+        "score": 0.32138320803642273
       },
       {
         "label": "neutral",
-        "score": 0.2258
+        "score": 0.2258092164993286
       },
       {
         "label": "disgust",
-        "score": 0.21
+        "score": 0.20997923612594604
       },
       {
         "label": "fear",
-        "score": 0.1568
+        "score": 0.15679216384887695
       },
       {
         "label": "sadness",
-        "score": 0.0459
+        "score": 0.045898668467998505
       },
       {
         "label": "anger",
-        "score": 0.0295
+        "score": 0.02947591431438923
       },
       {
         "label": "joy",
-        "score": 0.0107
+        "score": 0.010661592707037926
       }
     ]
   },
@@ -2710,31 +2611,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.754
+        "score": 0.7540021538734436
       },
       {
         "label": "neutral",
-        "score": 0.0961
+        "score": 0.09611427038908005
       },
       {
         "label": "sadness",
-        "score": 0.0655
+        "score": 0.0655234307050705
       },
       {
         "label": "joy",
-        "score": 0.0441
+        "score": 0.04405226185917854
       },
       {
         "label": "anger",
-        "score": 0.0241
+        "score": 0.024085117504000664
       },
       {
         "label": "surprise",
-        "score": 0.0087
+        "score": 0.008686700835824013
       },
       {
         "label": "fear",
-        "score": 0.0075
+        "score": 0.007536042015999556
       }
     ]
   },
@@ -2743,31 +2644,31 @@
     "emotions": [
       {
         "label": "fear",
-        "score": 0.4343
+        "score": 0.43428146839141846
       },
       {
         "label": "anger",
-        "score": 0.2168
+        "score": 0.21677151322364807
       },
       {
         "label": "sadness",
-        "score": 0.1557
+        "score": 0.1557081639766693
       },
       {
         "label": "disgust",
-        "score": 0.1014
+        "score": 0.10138940066099167
       },
       {
         "label": "neutral",
-        "score": 0.0674
+        "score": 0.0673520416021347
       },
       {
         "label": "joy",
-        "score": 0.0142
+        "score": 0.014243205077946186
       },
       {
         "label": "surprise",
-        "score": 0.0103
+        "score": 0.010254177264869213
       }
     ]
   },
@@ -2776,31 +2677,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.3973
+        "score": 0.3973272442817688
       },
       {
         "label": "sadness",
-        "score": 0.3476
+        "score": 0.34759753942489624
       },
       {
         "label": "anger",
-        "score": 0.1172
+        "score": 0.11724764853715897
       },
       {
         "label": "neutral",
-        "score": 0.1119
+        "score": 0.11188168823719025
       },
       {
         "label": "joy",
-        "score": 0.018
+        "score": 0.0179500263184309
       },
       {
         "label": "surprise",
-        "score": 0.0042
+        "score": 0.0041783894412219524
       },
       {
         "label": "fear",
-        "score": 0.0038
+        "score": 0.0038175038062036037
       }
     ]
   },
@@ -2809,31 +2710,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.7622
+        "score": 0.7621914148330688
       },
       {
         "label": "disgust",
-        "score": 0.0888
+        "score": 0.08884505182504654
       },
       {
         "label": "anger",
-        "score": 0.0651
+        "score": 0.06506159156560898
       },
       {
         "label": "sadness",
-        "score": 0.0636
+        "score": 0.06355832517147064
       },
       {
         "label": "surprise",
-        "score": 0.0116
+        "score": 0.011619786731898785
       },
       {
         "label": "fear",
-        "score": 0.0055
+        "score": 0.005500077269971371
       },
       {
         "label": "joy",
-        "score": 0.0032
+        "score": 0.0032237961422652006
       }
     ]
   },
@@ -2842,31 +2743,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.4018
+        "score": 0.4018254280090332
       },
       {
         "label": "fear",
-        "score": 0.2488
+        "score": 0.24878352880477905
       },
       {
         "label": "sadness",
-        "score": 0.1303
+        "score": 0.13030244410037994
       },
       {
         "label": "anger",
-        "score": 0.0766
+        "score": 0.07660137116909027
       },
       {
         "label": "disgust",
-        "score": 0.072
+        "score": 0.07203871011734009
       },
       {
         "label": "joy",
-        "score": 0.0579
+        "score": 0.05791506916284561
       },
       {
         "label": "surprise",
-        "score": 0.0125
+        "score": 0.012533516623079777
       }
     ]
   },
@@ -2875,31 +2776,31 @@
     "emotions": [
       {
         "label": "anger",
-        "score": 0.7032
+        "score": 0.7031708359718323
       },
       {
         "label": "disgust",
-        "score": 0.2603
+        "score": 0.260342001914978
       },
       {
         "label": "sadness",
-        "score": 0.0173
+        "score": 0.01730364002287388
       },
       {
         "label": "neutral",
-        "score": 0.0104
+        "score": 0.010440791957080364
       },
       {
         "label": "fear",
-        "score": 0.0074
+        "score": 0.007353655062615871
       },
       {
         "label": "surprise",
-        "score": 0.0007
+        "score": 0.0007158510270528495
       },
       {
         "label": "joy",
-        "score": 0.0007
+        "score": 0.0006732196779921651
       }
     ]
   },
@@ -2908,31 +2809,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.7364
+        "score": 0.7363824844360352
       },
       {
         "label": "disgust",
-        "score": 0.1157
+        "score": 0.11565713584423065
       },
       {
         "label": "neutral",
-        "score": 0.1024
+        "score": 0.10237835347652435
       },
       {
         "label": "anger",
-        "score": 0.0269
+        "score": 0.02694714069366455
       },
       {
         "label": "joy",
-        "score": 0.0084
+        "score": 0.008443810045719147
       },
       {
         "label": "fear",
-        "score": 0.0067
+        "score": 0.006722554564476013
       },
       {
         "label": "surprise",
-        "score": 0.0035
+        "score": 0.0034685165155678988
       }
     ]
   },
@@ -2941,31 +2842,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.5061
+        "score": 0.506148099899292
       },
       {
         "label": "sadness",
-        "score": 0.2672
+        "score": 0.2671985924243927
       },
       {
         "label": "neutral",
-        "score": 0.1027
+        "score": 0.10269120335578918
       },
       {
         "label": "fear",
-        "score": 0.0687
+        "score": 0.06874390691518784
       },
       {
         "label": "anger",
-        "score": 0.0275
+        "score": 0.027481207624077797
       },
       {
         "label": "surprise",
-        "score": 0.0195
+        "score": 0.01946381665766239
       },
       {
         "label": "joy",
-        "score": 0.0083
+        "score": 0.008273138664662838
       }
     ]
   },
@@ -2974,31 +2875,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.6117
+        "score": 0.6117432117462158
       },
       {
         "label": "disgust",
-        "score": 0.1988
+        "score": 0.19880004227161407
       },
       {
         "label": "anger",
-        "score": 0.1444
+        "score": 0.1443594992160797
       },
       {
         "label": "sadness",
-        "score": 0.0165
+        "score": 0.016545604914426804
       },
       {
         "label": "fear",
-        "score": 0.0151
+        "score": 0.015067133121192455
       },
       {
         "label": "joy",
-        "score": 0.0103
+        "score": 0.010341296903789043
       },
       {
         "label": "surprise",
-        "score": 0.0031
+        "score": 0.0031432262621819973
       }
     ]
   },
@@ -3007,97 +2908,64 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.9306
+        "score": 0.9305764436721802
       },
       {
         "label": "surprise",
-        "score": 0.0206
+        "score": 0.02060701698064804
       },
       {
         "label": "sadness",
-        "score": 0.0145
+        "score": 0.01454867608845234
       },
       {
         "label": "anger",
-        "score": 0.0091
+        "score": 0.009075725451111794
       },
       {
         "label": "fear",
-        "score": 0.0088
+        "score": 0.008760512806475163
       },
       {
         "label": "joy",
-        "score": 0.0085
+        "score": 0.008519573137164116
       },
       {
         "label": "disgust",
-        "score": 0.0079
+        "score": 0.007912041619420052
       }
     ]
   },
   {
-    "text": "\"",
-    "emotions": [
-      {
-        "label": "neutral",
-        "score": 0.8478
-      },
-      {
-        "label": "surprise",
-        "score": 0.0381
-      },
-      {
-        "label": "sadness",
-        "score": 0.0305
-      },
-      {
-        "label": "disgust",
-        "score": 0.0284
-      },
-      {
-        "label": "fear",
-        "score": 0.0255
-      },
-      {
-        "label": "anger",
-        "score": 0.024
-      },
-      {
-        "label": "joy",
-        "score": 0.0059
-      }
-    ]
-  },
-  {
-    "text": "And once I said that, once I truly believed it, joy didn’t feel like a betrayal anymore.",
+    "text": "\"\n\nAnd once I said that, once I truly believed it, joy didn’t feel like a betrayal anymore.",
     "emotions": [
       {
         "label": "joy",
-        "score": 0.3553
+        "score": 0.4594120681285858
       },
       {
         "label": "sadness",
-        "score": 0.3049
+        "score": 0.2962900996208191
       },
       {
         "label": "neutral",
-        "score": 0.1448
+        "score": 0.10508260875940323
       },
       {
         "label": "disgust",
-        "score": 0.1212
+        "score": 0.08977703750133514
       },
       {
         "label": "anger",
-        "score": 0.0676
+        "score": 0.04209304600954056
       },
       {
         "label": "fear",
-        "score": 0.0038
+        "score": 0.004590914119035006
       },
       {
         "label": "surprise",
-        "score": 0.0024
+        "score": 0.0027541506569832563
       }
     ]
   },
@@ -3106,31 +2974,31 @@
     "emotions": [
       {
         "label": "joy",
-        "score": 0.5026
+        "score": 0.5025752186775208
       },
       {
         "label": "neutral",
-        "score": 0.2875
+        "score": 0.2874636650085449
       },
       {
         "label": "fear",
-        "score": 0.0764
+        "score": 0.07639580219984055
       },
       {
         "label": "sadness",
-        "score": 0.0501
+        "score": 0.0501193031668663
       },
       {
         "label": "surprise",
-        "score": 0.0446
+        "score": 0.044609904289245605
       },
       {
         "label": "disgust",
-        "score": 0.03
+        "score": 0.0299502145498991
       },
       {
         "label": "anger",
-        "score": 0.0089
+        "score": 0.00888590607792139
       }
     ]
   },
@@ -3139,31 +3007,31 @@
     "emotions": [
       {
         "label": "joy",
-        "score": 0.8802
+        "score": 0.8801653981208801
       },
       {
         "label": "neutral",
-        "score": 0.0657
+        "score": 0.06572137773036957
       },
       {
         "label": "disgust",
-        "score": 0.0239
+        "score": 0.0239080972969532
       },
       {
         "label": "anger",
-        "score": 0.0147
+        "score": 0.014669505879282951
       },
       {
         "label": "sadness",
-        "score": 0.0098
+        "score": 0.00982116349041462
       },
       {
         "label": "surprise",
-        "score": 0.0053
+        "score": 0.005268503911793232
       },
       {
         "label": "fear",
-        "score": 0.0004
+        "score": 0.0004459344199858606
       }
     ]
   },
@@ -3172,31 +3040,31 @@
     "emotions": [
       {
         "label": "joy",
-        "score": 0.8484
+        "score": 0.8483967185020447
       },
       {
         "label": "neutral",
-        "score": 0.0952
+        "score": 0.09519064426422119
       },
       {
         "label": "disgust",
-        "score": 0.0204
+        "score": 0.020390914753079414
       },
       {
         "label": "anger",
-        "score": 0.0122
+        "score": 0.012194271199405193
       },
       {
         "label": "sadness",
-        "score": 0.012
+        "score": 0.012035951018333435
       },
       {
         "label": "surprise",
-        "score": 0.0105
+        "score": 0.01054867822676897
       },
       {
         "label": "fear",
-        "score": 0.0012
+        "score": 0.00124285276979208
       }
     ]
   },
@@ -3205,31 +3073,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.6642
+        "score": 0.6642345190048218
       },
       {
         "label": "sadness",
-        "score": 0.1904
+        "score": 0.19044333696365356
       },
       {
         "label": "disgust",
-        "score": 0.085
+        "score": 0.08500371128320694
       },
       {
         "label": "joy",
-        "score": 0.0195
+        "score": 0.019484128803014755
       },
       {
         "label": "fear",
-        "score": 0.0158
+        "score": 0.01582241989672184
       },
       {
         "label": "anger",
-        "score": 0.0136
+        "score": 0.013557667843997478
       },
       {
         "label": "surprise",
-        "score": 0.0115
+        "score": 0.011454182676970959
       }
     ]
   },
@@ -3238,31 +3106,31 @@
     "emotions": [
       {
         "label": "joy",
-        "score": 0.6277
+        "score": 0.627686083316803
       },
       {
         "label": "neutral",
-        "score": 0.2795
+        "score": 0.27946019172668457
       },
       {
         "label": "sadness",
-        "score": 0.0411
+        "score": 0.04112202301621437
       },
       {
         "label": "disgust",
-        "score": 0.0308
+        "score": 0.030801204964518547
       },
       {
         "label": "surprise",
-        "score": 0.0088
+        "score": 0.008760270662605762
       },
       {
         "label": "anger",
-        "score": 0.0073
+        "score": 0.0072739869356155396
       },
       {
         "label": "fear",
-        "score": 0.0049
+        "score": 0.004896231926977634
       }
     ]
   },
@@ -3271,31 +3139,31 @@
     "emotions": [
       {
         "label": "fear",
-        "score": 0.4233
+        "score": 0.42330068349838257
       },
       {
         "label": "joy",
-        "score": 0.1317
+        "score": 0.1316923201084137
       },
       {
         "label": "sadness",
-        "score": 0.1308
+        "score": 0.13076937198638916
       },
       {
         "label": "surprise",
-        "score": 0.1048
+        "score": 0.104810930788517
       },
       {
         "label": "neutral",
-        "score": 0.0917
+        "score": 0.09166566282510757
       },
       {
         "label": "disgust",
-        "score": 0.0795
+        "score": 0.07946912199258804
       },
       {
         "label": "anger",
-        "score": 0.0383
+        "score": 0.03829200938344002
       }
     ]
   },
@@ -3304,31 +3172,31 @@
     "emotions": [
       {
         "label": "joy",
-        "score": 0.8524
+        "score": 0.8524495959281921
       },
       {
         "label": "sadness",
-        "score": 0.123
+        "score": 0.12297675013542175
       },
       {
         "label": "neutral",
-        "score": 0.01
+        "score": 0.009988405741751194
       },
       {
         "label": "anger",
-        "score": 0.0063
+        "score": 0.0062745907343924046
       },
       {
         "label": "disgust",
-        "score": 0.0042
+        "score": 0.004160349257290363
       },
       {
         "label": "fear",
-        "score": 0.0031
+        "score": 0.003081800416111946
       },
       {
         "label": "surprise",
-        "score": 0.0011
+        "score": 0.0010684034787118435
       }
     ]
   },
@@ -3337,31 +3205,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.4927
+        "score": 0.49268844723701477
       },
       {
         "label": "sadness",
-        "score": 0.3448
+        "score": 0.344804972410202
       },
       {
         "label": "disgust",
-        "score": 0.0834
+        "score": 0.08338198810815811
       },
       {
         "label": "fear",
-        "score": 0.0366
+        "score": 0.03656168654561043
       },
       {
         "label": "anger",
-        "score": 0.0236
+        "score": 0.023556826636195183
       },
       {
         "label": "surprise",
-        "score": 0.0145
+        "score": 0.014473331160843372
       },
       {
         "label": "joy",
-        "score": 0.0045
+        "score": 0.0045327418483793736
       }
     ]
   },
@@ -3370,31 +3238,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.4226
+        "score": 0.42260080575942993
       },
       {
         "label": "anger",
-        "score": 0.1907
+        "score": 0.19071124494075775
       },
       {
         "label": "disgust",
-        "score": 0.1365
+        "score": 0.13647237420082092
       },
       {
         "label": "sadness",
-        "score": 0.0971
+        "score": 0.09713910520076752
       },
       {
         "label": "fear",
-        "score": 0.093
+        "score": 0.09299639612436295
       },
       {
         "label": "joy",
-        "score": 0.0331
+        "score": 0.03308025747537613
       },
       {
         "label": "surprise",
-        "score": 0.027
+        "score": 0.026999833062291145
       }
     ]
   },
@@ -3403,31 +3271,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.594
+        "score": 0.5940381288528442
       },
       {
         "label": "surprise",
-        "score": 0.1901
+        "score": 0.1900564283132553
       },
       {
         "label": "sadness",
-        "score": 0.0717
+        "score": 0.07174741476774216
       },
       {
         "label": "disgust",
-        "score": 0.0543
+        "score": 0.05428552255034447
       },
       {
         "label": "anger",
-        "score": 0.0472
+        "score": 0.04720641300082207
       },
       {
         "label": "fear",
-        "score": 0.0338
+        "score": 0.03376790136098862
       },
       {
         "label": "joy",
-        "score": 0.0089
+        "score": 0.008898194879293442
       }
     ]
   },
@@ -3436,31 +3304,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.8516
+        "score": 0.8515974879264832
       },
       {
         "label": "surprise",
-        "score": 0.0576
+        "score": 0.057551298290491104
       },
       {
         "label": "anger",
-        "score": 0.0344
+        "score": 0.03441810607910156
       },
       {
         "label": "joy",
-        "score": 0.0289
+        "score": 0.028870273381471634
       },
       {
         "label": "disgust",
-        "score": 0.0198
+        "score": 0.019848698750138283
       },
       {
         "label": "sadness",
-        "score": 0.0051
+        "score": 0.005075851920992136
       },
       {
         "label": "fear",
-        "score": 0.0026
+        "score": 0.0026382538489997387
       }
     ]
   },
@@ -3469,31 +3337,31 @@
     "emotions": [
       {
         "label": "anger",
-        "score": 0.51
+        "score": 0.5100361704826355
       },
       {
         "label": "fear",
-        "score": 0.1944
+        "score": 0.1943759173154831
       },
       {
         "label": "disgust",
-        "score": 0.1451
+        "score": 0.14510516822338104
       },
       {
         "label": "neutral",
-        "score": 0.1279
+        "score": 0.12785950303077698
       },
       {
         "label": "sadness",
-        "score": 0.0165
+        "score": 0.01654217578470707
       },
       {
         "label": "joy",
-        "score": 0.0039
+        "score": 0.00392932677641511
       },
       {
         "label": "surprise",
-        "score": 0.0022
+        "score": 0.0021517560817301273
       }
     ]
   },
@@ -3502,31 +3370,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.6873
+        "score": 0.687263011932373
       },
       {
         "label": "fear",
-        "score": 0.1021
+        "score": 0.10207336395978928
       },
       {
         "label": "sadness",
-        "score": 0.0991
+        "score": 0.09913472086191177
       },
       {
         "label": "neutral",
-        "score": 0.0928
+        "score": 0.09283290058374405
       },
       {
         "label": "anger",
-        "score": 0.0117
+        "score": 0.011734853498637676
       },
       {
         "label": "surprise",
-        "score": 0.0057
+        "score": 0.005652014631778002
       },
       {
         "label": "joy",
-        "score": 0.0013
+        "score": 0.001309067476540804
       }
     ]
   },
@@ -3535,31 +3403,31 @@
     "emotions": [
       {
         "label": "sadness",
-        "score": 0.6929
+        "score": 0.6928524374961853
       },
       {
         "label": "neutral",
-        "score": 0.2276
+        "score": 0.22764453291893005
       },
       {
         "label": "fear",
-        "score": 0.0321
+        "score": 0.03209937363862991
       },
       {
         "label": "joy",
-        "score": 0.0138
+        "score": 0.013766109943389893
       },
       {
         "label": "disgust",
-        "score": 0.0131
+        "score": 0.013081906363368034
       },
       {
         "label": "anger",
-        "score": 0.0116
+        "score": 0.011556231416761875
       },
       {
         "label": "surprise",
-        "score": 0.009
+        "score": 0.008999518118798733
       }
     ]
   },
@@ -3568,31 +3436,31 @@
     "emotions": [
       {
         "label": "joy",
-        "score": 0.6835
+        "score": 0.6835207343101501
       },
       {
         "label": "neutral",
-        "score": 0.1343
+        "score": 0.13427279889583588
       },
       {
         "label": "sadness",
-        "score": 0.1219
+        "score": 0.12194352596998215
       },
       {
         "label": "anger",
-        "score": 0.0287
+        "score": 0.02873605117201805
       },
       {
         "label": "disgust",
-        "score": 0.0218
+        "score": 0.021842332556843758
       },
       {
         "label": "fear",
-        "score": 0.0074
+        "score": 0.007381372153759003
       },
       {
         "label": "surprise",
-        "score": 0.0023
+        "score": 0.0023031728342175484
       }
     ]
   },
@@ -3601,31 +3469,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.5028
+        "score": 0.5027766823768616
       },
       {
         "label": "sadness",
-        "score": 0.2495
+        "score": 0.24948295950889587
       },
       {
         "label": "fear",
-        "score": 0.1165
+        "score": 0.11653371900320053
       },
       {
         "label": "disgust",
-        "score": 0.082
+        "score": 0.08195000886917114
       },
       {
         "label": "anger",
-        "score": 0.034
+        "score": 0.033961571753025055
       },
       {
         "label": "joy",
-        "score": 0.0085
+        "score": 0.008480687625706196
       },
       {
         "label": "surprise",
-        "score": 0.0068
+        "score": 0.006814307067543268
       }
     ]
   },
@@ -3634,31 +3502,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.7771
+        "score": 0.777104377746582
       },
       {
         "label": "disgust",
-        "score": 0.0997
+        "score": 0.09965734928846359
       },
       {
         "label": "surprise",
-        "score": 0.0517
+        "score": 0.051691263914108276
       },
       {
         "label": "fear",
-        "score": 0.0373
+        "score": 0.0372735895216465
       },
       {
         "label": "anger",
-        "score": 0.0222
+        "score": 0.02221987396478653
       },
       {
         "label": "sadness",
-        "score": 0.0086
+        "score": 0.008632635697722435
       },
       {
         "label": "joy",
-        "score": 0.0034
+        "score": 0.0034208002034574747
       }
     ]
   },
@@ -3667,31 +3535,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.8008
+        "score": 0.8007654547691345
       },
       {
         "label": "surprise",
-        "score": 0.0786
+        "score": 0.0785970613360405
       },
       {
         "label": "disgust",
-        "score": 0.0652
+        "score": 0.06518344581127167
       },
       {
         "label": "fear",
-        "score": 0.0273
+        "score": 0.02727760374546051
       },
       {
         "label": "sadness",
-        "score": 0.0156
+        "score": 0.015573308803141117
       },
       {
         "label": "anger",
-        "score": 0.0071
+        "score": 0.0071394722908735275
       },
       {
         "label": "joy",
-        "score": 0.0055
+        "score": 0.005463657435029745
       }
     ]
   },
@@ -3700,31 +3568,31 @@
     "emotions": [
       {
         "label": "disgust",
-        "score": 0.5173
+        "score": 0.5173274278640747
       },
       {
         "label": "neutral",
-        "score": 0.2574
+        "score": 0.2573997974395752
       },
       {
         "label": "sadness",
-        "score": 0.1503
+        "score": 0.1503443866968155
       },
       {
         "label": "anger",
-        "score": 0.0548
+        "score": 0.05479814484715462
       },
       {
         "label": "fear",
-        "score": 0.0121
+        "score": 0.012056835927069187
       },
       {
         "label": "joy",
-        "score": 0.0051
+        "score": 0.005106059834361076
       },
       {
         "label": "surprise",
-        "score": 0.003
+        "score": 0.002967367647215724
       }
     ]
   },
@@ -3733,31 +3601,31 @@
     "emotions": [
       {
         "label": "neutral",
-        "score": 0.902
+        "score": 0.902038037776947
       },
       {
         "label": "joy",
-        "score": 0.0409
+        "score": 0.04087813198566437
       },
       {
         "label": "anger",
-        "score": 0.0196
+        "score": 0.01958836428821087
       },
       {
         "label": "disgust",
-        "score": 0.0193
+        "score": 0.019273219630122185
       },
       {
         "label": "surprise",
-        "score": 0.0131
+        "score": 0.013073650188744068
       },
       {
         "label": "sadness",
-        "score": 0.0041
+        "score": 0.004124312661588192
       },
       {
         "label": "fear",
-        "score": 0.001
+        "score": 0.0010242901043966413
       }
     ]
   }

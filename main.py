@@ -3,81 +3,112 @@ import json
 import pandas as pd
 import matplotlib.pyplot as plt
 from transformers import pipeline
+from pprint import pprint
+import logging
+import numpy as np
+import matplotlib.colors as mcolors
 
-folder_path = "txt"
+logging.basicConfig(level=logging.INFO)
 
-def text_segmentation(path=f"{folder_path}/input.txt"):
+# Emotion color and order definitions (from report.py)
+EMOTION_COLORS = {
+    'disgust': '#00FF00',   # vert
+    'surprise': '#4B0082', # indigo
+    'joy': '#FFFF00',      # jaune
+    'sadness': '#0000FF',  # bleu
+    'fear': '#FFA500',     # orange
+    'anger': '#FF0000',    # rouge
+    'neutral': '#800080'   # violet
+}
+
+EMOTION_ORDER = ['neutral', 'surprise', 'sadness', 'disgust', 'joy', 'fear', 'anger']
+
+def text_analysis(path=f"txt/input.txt"):
+
     nlp = spacy.load("en_core_web_md")
+    classifier = pipeline("text-classification", model="j-hartmann/emotion-english-distilroberta-base", top_k=7)
+    json_lines = []
+
+    logging.info(f"Processing file: {path}")
     with open(path, "r", encoding="utf-8") as f:
         texte = f.read()
     doc = nlp(texte)
     phrases = [sent.text.strip() for sent in doc.sents]
-    with open(f"{folder_path}/output.txt", "w", encoding="utf-8") as out:
-        for i, phrase in enumerate(phrases, 1):
-            out.write(f"{phrase}\n")
-                      
-def text_emotionnal_traduction(path=f"{folder_path}/output.txt"):
-    # 1. Pipeline d'analyse émotionnelle
-    classifier = pipeline("text-classification", model="j-hartmann/emotion-english-distilroberta-base", top_k=7)
+    logging.info(f"Found {len(phrases)} phrases")
 
-    json_lines = []
+    logging.info(f"Processing phrases")
+    for phrase in phrases:
+        phrase = phrase.strip()
+        if not phrase:
+            continue
 
-    # 2. Lecture ligne par ligne
-    with open(path, "r", encoding="utf-8") as infile, open(f"{folder_path}/output_eat.jsonl", "w", encoding="utf-8") as outfile_jsonl:
-        for line in infile:
-            line = line.strip()
-            if not line:
-                continue
-            results = classifier(line)[0]  # Liste des 7 émotions
+        results = classifier(phrase)[0]
+        json_line = {
+            "text": phrase,
+            "emotions": [{"label": res["label"], "score": res["score"]} for res in results]
+        }
+        json_lines.append(json_line)
+    
+    logging.info(f"Writing output.json")
+    with open(f"txt/output.json", "w", encoding="utf-8") as outfile:     
+        json.dump(json_lines, outfile, ensure_ascii=False, indent=2)
 
-            json_line = {
-                "text": line,
-                "emotions": [{"label": res["label"], "score": round(res["score"], 4)} for res in results]
-            }
+    logging.info(f"Done")
 
-            # Écriture ligne JSON
-            outfile_jsonl.write(json.dumps(json_line, ensure_ascii=False) + "\n")
-            json_lines.append(json_line)
-
-    # 3. Écriture du fichier JSON complet (tableau)
-    with open(f"{folder_path}/output_eat_full.json", "w", encoding="utf-8") as outfile_full:
-        json.dump(json_lines, outfile_full, ensure_ascii=False, indent=2)
-
-
-def plot_emotion_graph(json_path=f"{folder_path}/output_eat_full.json"):
-    # Charger les données JSON
-    with open(json_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-
-    # Convertir en DataFrame
-    records = []
-    for i, item in enumerate(data):
-        for emo in item['emotions']:
-            records.append({
+def process_data_json(data):
+    rows = []
+    for i, entry in enumerate(data):
+        text = entry["text"]
+        for emo in entry["emotions"]:
+            rows.append({
                 "index": i,
-                "text": item["text"],
+                "text": text,
                 "emotion": emo["label"],
                 "score": emo["score"]
             })
+    df = pd.DataFrame(rows)
+    return df
 
-    df = pd.DataFrame(records)
-    pivot_df = df.pivot(index="index", columns="emotion", values="score")
+def analyze_emotions(df):
+    pivot = df.pivot(index="index", columns="emotion", values="score").fillna(0)
+    pivot["dominant"] = pivot.idxmax(axis=1)
+    return pivot
 
-    # Tracer le graphique
-    plt.figure(figsize=(14, 6))
-    for emotion in pivot_df.columns:
-        plt.plot(pivot_df.index, pivot_df[emotion], label=emotion)
-    
-    plt.title("Évolution des émotions au fil des phrases")
-    plt.xlabel("Phrase n°")
-    plt.ylabel("Score d'émotion")
-    plt.legend()
-    plt.grid(True)
-    plt.tight_layout()
-    plt.show()
+def interpolate_color(color_hex, score, pale_factor=0.8):
+    color_rgb = np.array(mcolors.to_rgb(color_hex))
+    white_rgb = np.array([1, 1, 1])
+    pale_rgb = white_rgb * pale_factor + color_rgb * (1 - pale_factor)
+    result_rgb = pale_rgb * (1 - score) + color_rgb * score
+    return result_rgb
+
+def save_heatmap(df, output_path):
+    if "dominant" in df.columns:
+        data = df.drop(columns="dominant")
+    else:
+        data = df
+    emotions = [e for e in EMOTION_ORDER if e in data.columns]
+    data = data[emotions]
+    n_emotions = len(emotions)
+    n_phrases = data.shape[0]
+    img = np.ones((n_emotions, n_phrases, 3))
+    for i, emo in enumerate(emotions):
+        color = EMOTION_COLORS.get(emo, '#000000')
+        for j in range(n_phrases):
+            score = data.iloc[j][emo]
+            img[i, j, :] = interpolate_color(color, score)
+    plt.imsave(output_path, img)
+    logging.info(f"Heatmap saved")
+
+def make_heatmap_from_output_json(path="txt/output.json", output_path="heatmap.png"):
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    df_long = process_data_json(data)
+    df_wide = analyze_emotions(df_long)
+    save_heatmap(df_wide, output_path)
+
 
 if __name__ == "__main__":
-    text_segmentation()
-    text_emotionnal_traduction()
-    plot_emotion_graph()
+    text_analysis()
+    make_heatmap_from_output_json()
+
 

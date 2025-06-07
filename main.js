@@ -12,7 +12,7 @@ document.body.appendChild(renderer.domElement);
 
 // Chargement de la texture heatmap
 const textureLoader = new THREE.TextureLoader();
-textureLoader.load('emotion_heatmap_raw.png', (heatmapTexture) => {
+textureLoader.load('heatmap.png', (heatmapTexture) => {
   heatmapTexture.minFilter = THREE.LinearFilter;
   heatmapTexture.magFilter = THREE.LinearFilter;
   heatmapTexture.wrapS = THREE.ClampToEdgeWrapping;
