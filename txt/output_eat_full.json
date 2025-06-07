@@ -1,0 +1,3764 @@
+[
+  {
+    "text": "I don’t know when the sadness started.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.9485
+      },
+      {
+        "label": "neutral",
+        "score": 0.0241
+      },
+      {
+        "label": "surprise",
+        "score": 0.0142
+      },
+      {
+        "label": "disgust",
+        "score": 0.0046
+      },
+      {
+        "label": "fear",
+        "score": 0.0046
+      },
+      {
+        "label": "joy",
+        "score": 0.0025
+      },
+      {
+        "label": "anger",
+        "score": 0.0014
+      }
+    ]
+  },
+  {
+    "text": "Maybe it was always there, like a low hum beneath my ribs, a murmur in the background of every sunrise I watched through tired eyes.",
+    "emotions": [
+      {
+        "label": "fear",
+        "score": 0.8655
+      },
+      {
+        "label": "neutral",
+        "score": 0.0545
+      },
+      {
+        "label": "sadness",
+        "score": 0.0509
+      },
+      {
+        "label": "disgust",
+        "score": 0.0164
+      },
+      {
+        "label": "anger",
+        "score": 0.0068
+      },
+      {
+        "label": "surprise",
+        "score": 0.0039
+      },
+      {
+        "label": "joy",
+        "score": 0.0021
+      }
+    ]
+  },
+  {
+    "text": "Maybe I was born with it.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8974
+      },
+      {
+        "label": "surprise",
+        "score": 0.0249
+      },
+      {
+        "label": "disgust",
+        "score": 0.0215
+      },
+      {
+        "label": "sadness",
+        "score": 0.0202
+      },
+      {
+        "label": "joy",
+        "score": 0.0156
+      },
+      {
+        "label": "anger",
+        "score": 0.0107
+      },
+      {
+        "label": "fear",
+        "score": 0.0097
+      }
+    ]
+  },
+  {
+    "text": "Maybe it crept in the night I stopped waiting for my father to come home, and the silence of the front door became a ritual.",
+    "emotions": [
+      {
+        "label": "fear",
+        "score": 0.6533
+      },
+      {
+        "label": "neutral",
+        "score": 0.2077
+      },
+      {
+        "label": "disgust",
+        "score": 0.0726
+      },
+      {
+        "label": "sadness",
+        "score": 0.033
+      },
+      {
+        "label": "anger",
+        "score": 0.0178
+      },
+      {
+        "label": "surprise",
+        "score": 0.0128
+      },
+      {
+        "label": "joy",
+        "score": 0.0028
+      }
+    ]
+  },
+  {
+    "text": "The truth is, it doesn’t matter when it began.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8168
+      },
+      {
+        "label": "disgust",
+        "score": 0.0998
+      },
+      {
+        "label": "anger",
+        "score": 0.042
+      },
+      {
+        "label": "fear",
+        "score": 0.0216
+      },
+      {
+        "label": "sadness",
+        "score": 0.007
+      },
+      {
+        "label": "joy",
+        "score": 0.007
+      },
+      {
+        "label": "surprise",
+        "score": 0.0058
+      }
+    ]
+  },
+  {
+    "text": "What matters is that it never really left.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.846
+      },
+      {
+        "label": "disgust",
+        "score": 0.0582
+      },
+      {
+        "label": "surprise",
+        "score": 0.0383
+      },
+      {
+        "label": "anger",
+        "score": 0.0236
+      },
+      {
+        "label": "sadness",
+        "score": 0.0221
+      },
+      {
+        "label": "fear",
+        "score": 0.0062
+      },
+      {
+        "label": "joy",
+        "score": 0.0055
+      }
+    ]
+  },
+  {
+    "text": "Sadness became the language I spoke to myself in.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.9828
+      },
+      {
+        "label": "neutral",
+        "score": 0.0076
+      },
+      {
+        "label": "surprise",
+        "score": 0.0033
+      },
+      {
+        "label": "disgust",
+        "score": 0.0028
+      },
+      {
+        "label": "fear",
+        "score": 0.0015
+      },
+      {
+        "label": "joy",
+        "score": 0.0013
+      },
+      {
+        "label": "anger",
+        "score": 0.0007
+      }
+    ]
+  },
+  {
+    "text": "I wore it like a second skin, heavy and invisible.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.8423
+      },
+      {
+        "label": "neutral",
+        "score": 0.0872
+      },
+      {
+        "label": "anger",
+        "score": 0.0336
+      },
+      {
+        "label": "fear",
+        "score": 0.0181
+      },
+      {
+        "label": "sadness",
+        "score": 0.0144
+      },
+      {
+        "label": "surprise",
+        "score": 0.0037
+      },
+      {
+        "label": "joy",
+        "score": 0.0007
+      }
+    ]
+  },
+  {
+    "text": "I carried it into school, into friendships, into every small celebration that should’ve made me feel alive.",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.9496
+      },
+      {
+        "label": "neutral",
+        "score": 0.0342
+      },
+      {
+        "label": "surprise",
+        "score": 0.005
+      },
+      {
+        "label": "sadness",
+        "score": 0.0049
+      },
+      {
+        "label": "disgust",
+        "score": 0.0034
+      },
+      {
+        "label": "anger",
+        "score": 0.002
+      },
+      {
+        "label": "fear",
+        "score": 0.0009
+      }
+    ]
+  },
+  {
+    "text": "People said I smiled easily.",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.9025
+      },
+      {
+        "label": "neutral",
+        "score": 0.0674
+      },
+      {
+        "label": "disgust",
+        "score": 0.0142
+      },
+      {
+        "label": "anger",
+        "score": 0.0069
+      },
+      {
+        "label": "surprise",
+        "score": 0.0055
+      },
+      {
+        "label": "sadness",
+        "score": 0.003
+      },
+      {
+        "label": "fear",
+        "score": 0.0005
+      }
+    ]
+  },
+  {
+    "text": "They didn’t see how much effort it took.",
+    "emotions": [
+      {
+        "label": "surprise",
+        "score": 0.908
+      },
+      {
+        "label": "neutral",
+        "score": 0.0499
+      },
+      {
+        "label": "disgust",
+        "score": 0.0186
+      },
+      {
+        "label": "anger",
+        "score": 0.0128
+      },
+      {
+        "label": "sadness",
+        "score": 0.0067
+      },
+      {
+        "label": "joy",
+        "score": 0.0021
+      },
+      {
+        "label": "fear",
+        "score": 0.0019
+      }
+    ]
+  },
+  {
+    "text": "They didn’t see the ache behind my eyes.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.4256
+      },
+      {
+        "label": "disgust",
+        "score": 0.4059
+      },
+      {
+        "label": "surprise",
+        "score": 0.0671
+      },
+      {
+        "label": "sadness",
+        "score": 0.0406
+      },
+      {
+        "label": "fear",
+        "score": 0.0323
+      },
+      {
+        "label": "anger",
+        "score": 0.0263
+      },
+      {
+        "label": "joy",
+        "score": 0.0022
+      }
+    ]
+  },
+  {
+    "text": "I remember one morning when the rain hit the window just right, soft and relentless, like the world itself was mourning something.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.8672
+      },
+      {
+        "label": "neutral",
+        "score": 0.0454
+      },
+      {
+        "label": "fear",
+        "score": 0.0273
+      },
+      {
+        "label": "surprise",
+        "score": 0.0268
+      },
+      {
+        "label": "disgust",
+        "score": 0.0228
+      },
+      {
+        "label": "anger",
+        "score": 0.0086
+      },
+      {
+        "label": "joy",
+        "score": 0.0019
+      }
+    ]
+  },
+  {
+    "text": "I stood there, holding a cup of coffee that had long gone cold, and I thought, \"This is what it feels like to exist without meaning.\"",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.6655
+      },
+      {
+        "label": "fear",
+        "score": 0.1082
+      },
+      {
+        "label": "sadness",
+        "score": 0.0809
+      },
+      {
+        "label": "surprise",
+        "score": 0.0617
+      },
+      {
+        "label": "neutral",
+        "score": 0.0427
+      },
+      {
+        "label": "anger",
+        "score": 0.0388
+      },
+      {
+        "label": "joy",
+        "score": 0.0022
+      }
+    ]
+  },
+  {
+    "text": "Not pain.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.4699
+      },
+      {
+        "label": "neutral",
+        "score": 0.2946
+      },
+      {
+        "label": "disgust",
+        "score": 0.1176
+      },
+      {
+        "label": "fear",
+        "score": 0.0632
+      },
+      {
+        "label": "surprise",
+        "score": 0.0251
+      },
+      {
+        "label": "anger",
+        "score": 0.0211
+      },
+      {
+        "label": "joy",
+        "score": 0.0086
+      }
+    ]
+  },
+  {
+    "text": "Not despair.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.5634
+      },
+      {
+        "label": "fear",
+        "score": 0.3229
+      },
+      {
+        "label": "neutral",
+        "score": 0.0925
+      },
+      {
+        "label": "disgust",
+        "score": 0.0082
+      },
+      {
+        "label": "surprise",
+        "score": 0.0047
+      },
+      {
+        "label": "joy",
+        "score": 0.0043
+      },
+      {
+        "label": "anger",
+        "score": 0.0039
+      }
+    ]
+  },
+  {
+    "text": "Just that quiet erosion.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.859
+      },
+      {
+        "label": "sadness",
+        "score": 0.0453
+      },
+      {
+        "label": "disgust",
+        "score": 0.0408
+      },
+      {
+        "label": "surprise",
+        "score": 0.021
+      },
+      {
+        "label": "fear",
+        "score": 0.0184
+      },
+      {
+        "label": "anger",
+        "score": 0.0112
+      },
+      {
+        "label": "joy",
+        "score": 0.0043
+      }
+    ]
+  },
+  {
+    "text": "That slow vanishing.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.4725
+      },
+      {
+        "label": "surprise",
+        "score": 0.2445
+      },
+      {
+        "label": "fear",
+        "score": 0.1502
+      },
+      {
+        "label": "sadness",
+        "score": 0.0541
+      },
+      {
+        "label": "disgust",
+        "score": 0.0455
+      },
+      {
+        "label": "anger",
+        "score": 0.0306
+      },
+      {
+        "label": "joy",
+        "score": 0.0027
+      }
+    ]
+  },
+  {
+    "text": "No one noticed.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.4622
+      },
+      {
+        "label": "disgust",
+        "score": 0.2268
+      },
+      {
+        "label": "surprise",
+        "score": 0.1603
+      },
+      {
+        "label": "anger",
+        "score": 0.1195
+      },
+      {
+        "label": "sadness",
+        "score": 0.0174
+      },
+      {
+        "label": "joy",
+        "score": 0.0069
+      },
+      {
+        "label": "fear",
+        "score": 0.0069
+      }
+    ]
+  },
+  {
+    "text": "Or maybe they did, and didn’t know what to say.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.788
+      },
+      {
+        "label": "sadness",
+        "score": 0.088
+      },
+      {
+        "label": "disgust",
+        "score": 0.05
+      },
+      {
+        "label": "anger",
+        "score": 0.0366
+      },
+      {
+        "label": "surprise",
+        "score": 0.0196
+      },
+      {
+        "label": "fear",
+        "score": 0.0157
+      },
+      {
+        "label": "joy",
+        "score": 0.0021
+      }
+    ]
+  },
+  {
+    "text": "Maybe I’ve always been good at making my suffering palatable.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8076
+      },
+      {
+        "label": "sadness",
+        "score": 0.0914
+      },
+      {
+        "label": "joy",
+        "score": 0.0498
+      },
+      {
+        "label": "disgust",
+        "score": 0.0346
+      },
+      {
+        "label": "fear",
+        "score": 0.0063
+      },
+      {
+        "label": "anger",
+        "score": 0.0057
+      },
+      {
+        "label": "surprise",
+        "score": 0.0047
+      }
+    ]
+  },
+  {
+    "text": "Manageable.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.9162
+      },
+      {
+        "label": "anger",
+        "score": 0.0362
+      },
+      {
+        "label": "surprise",
+        "score": 0.0118
+      },
+      {
+        "label": "disgust",
+        "score": 0.0113
+      },
+      {
+        "label": "fear",
+        "score": 0.0107
+      },
+      {
+        "label": "sadness",
+        "score": 0.008
+      },
+      {
+        "label": "joy",
+        "score": 0.0057
+      }
+    ]
+  },
+  {
+    "text": "A joke here.",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.7209
+      },
+      {
+        "label": "neutral",
+        "score": 0.1427
+      },
+      {
+        "label": "surprise",
+        "score": 0.0552
+      },
+      {
+        "label": "disgust",
+        "score": 0.0359
+      },
+      {
+        "label": "anger",
+        "score": 0.0242
+      },
+      {
+        "label": "sadness",
+        "score": 0.0174
+      },
+      {
+        "label": "fear",
+        "score": 0.0037
+      }
+    ]
+  },
+  {
+    "text": "A shrug there.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.6364
+      },
+      {
+        "label": "disgust",
+        "score": 0.2529
+      },
+      {
+        "label": "anger",
+        "score": 0.0453
+      },
+      {
+        "label": "joy",
+        "score": 0.0391
+      },
+      {
+        "label": "sadness",
+        "score": 0.0166
+      },
+      {
+        "label": "surprise",
+        "score": 0.0053
+      },
+      {
+        "label": "fear",
+        "score": 0.0045
+      }
+    ]
+  },
+  {
+    "text": "The sadness simmered under it all.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.984
+      },
+      {
+        "label": "neutral",
+        "score": 0.0069
+      },
+      {
+        "label": "disgust",
+        "score": 0.0035
+      },
+      {
+        "label": "anger",
+        "score": 0.0015
+      },
+      {
+        "label": "joy",
+        "score": 0.0014
+      },
+      {
+        "label": "surprise",
+        "score": 0.0014
+      },
+      {
+        "label": "fear",
+        "score": 0.0013
+      }
+    ]
+  },
+  {
+    "text": "Then one day, it shifted.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.6976
+      },
+      {
+        "label": "surprise",
+        "score": 0.2139
+      },
+      {
+        "label": "disgust",
+        "score": 0.0334
+      },
+      {
+        "label": "anger",
+        "score": 0.0266
+      },
+      {
+        "label": "fear",
+        "score": 0.0188
+      },
+      {
+        "label": "sadness",
+        "score": 0.0059
+      },
+      {
+        "label": "joy",
+        "score": 0.0037
+      }
+    ]
+  },
+  {
+    "text": "Not into healing.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.7359
+      },
+      {
+        "label": "neutral",
+        "score": 0.1765
+      },
+      {
+        "label": "disgust",
+        "score": 0.0504
+      },
+      {
+        "label": "anger",
+        "score": 0.013
+      },
+      {
+        "label": "fear",
+        "score": 0.0111
+      },
+      {
+        "label": "surprise",
+        "score": 0.0101
+      },
+      {
+        "label": "joy",
+        "score": 0.003
+      }
+    ]
+  },
+  {
+    "text": "Not into hope.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.6105
+      },
+      {
+        "label": "neutral",
+        "score": 0.2578
+      },
+      {
+        "label": "fear",
+        "score": 0.0619
+      },
+      {
+        "label": "surprise",
+        "score": 0.024
+      },
+      {
+        "label": "disgust",
+        "score": 0.0232
+      },
+      {
+        "label": "anger",
+        "score": 0.0171
+      },
+      {
+        "label": "joy",
+        "score": 0.0054
+      }
+    ]
+  },
+  {
+    "text": "But into something sharper.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.4168
+      },
+      {
+        "label": "disgust",
+        "score": 0.265
+      },
+      {
+        "label": "anger",
+        "score": 0.1586
+      },
+      {
+        "label": "surprise",
+        "score": 0.0682
+      },
+      {
+        "label": "sadness",
+        "score": 0.053
+      },
+      {
+        "label": "fear",
+        "score": 0.0348
+      },
+      {
+        "label": "joy",
+        "score": 0.0035
+      }
+    ]
+  },
+  {
+    "text": "Anger.",
+    "emotions": [
+      {
+        "label": "anger",
+        "score": 0.9708
+      },
+      {
+        "label": "disgust",
+        "score": 0.0156
+      },
+      {
+        "label": "sadness",
+        "score": 0.0055
+      },
+      {
+        "label": "neutral",
+        "score": 0.0054
+      },
+      {
+        "label": "fear",
+        "score": 0.0012
+      },
+      {
+        "label": "surprise",
+        "score": 0.0009
+      },
+      {
+        "label": "joy",
+        "score": 0.0006
+      }
+    ]
+  },
+  {
+    "text": "It started with small things.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8299
+      },
+      {
+        "label": "surprise",
+        "score": 0.0423
+      },
+      {
+        "label": "fear",
+        "score": 0.0402
+      },
+      {
+        "label": "disgust",
+        "score": 0.0401
+      },
+      {
+        "label": "anger",
+        "score": 0.0325
+      },
+      {
+        "label": "joy",
+        "score": 0.0109
+      },
+      {
+        "label": "sadness",
+        "score": 0.0041
+      }
+    ]
+  },
+  {
+    "text": "The way someone cut in line.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.8275
+      },
+      {
+        "label": "anger",
+        "score": 0.1551
+      },
+      {
+        "label": "neutral",
+        "score": 0.0088
+      },
+      {
+        "label": "sadness",
+        "score": 0.0028
+      },
+      {
+        "label": "fear",
+        "score": 0.0027
+      },
+      {
+        "label": "surprise",
+        "score": 0.0027
+      },
+      {
+        "label": "joy",
+        "score": 0.0004
+      }
+    ]
+  },
+  {
+    "text": "The way a friend forgot to call.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.3158
+      },
+      {
+        "label": "neutral",
+        "score": 0.2701
+      },
+      {
+        "label": "disgust",
+        "score": 0.2161
+      },
+      {
+        "label": "anger",
+        "score": 0.0948
+      },
+      {
+        "label": "surprise",
+        "score": 0.0886
+      },
+      {
+        "label": "fear",
+        "score": 0.0108
+      },
+      {
+        "label": "joy",
+        "score": 0.0039
+      }
+    ]
+  },
+  {
+    "text": "The way the world kept spinning while I was frozen.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.5911
+      },
+      {
+        "label": "neutral",
+        "score": 0.1808
+      },
+      {
+        "label": "surprise",
+        "score": 0.085
+      },
+      {
+        "label": "anger",
+        "score": 0.0688
+      },
+      {
+        "label": "fear",
+        "score": 0.0363
+      },
+      {
+        "label": "sadness",
+        "score": 0.0346
+      },
+      {
+        "label": "joy",
+        "score": 0.0034
+      }
+    ]
+  },
+  {
+    "text": "It built like a storm, low and distant at first, then rising, louder, hotter.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.551
+      },
+      {
+        "label": "anger",
+        "score": 0.1854
+      },
+      {
+        "label": "disgust",
+        "score": 0.1273
+      },
+      {
+        "label": "fear",
+        "score": 0.0947
+      },
+      {
+        "label": "surprise",
+        "score": 0.0191
+      },
+      {
+        "label": "sadness",
+        "score": 0.0163
+      },
+      {
+        "label": "joy",
+        "score": 0.0062
+      }
+    ]
+  },
+  {
+    "text": "The kind of heat that consumes air.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.553
+      },
+      {
+        "label": "anger",
+        "score": 0.2464
+      },
+      {
+        "label": "neutral",
+        "score": 0.1547
+      },
+      {
+        "label": "sadness",
+        "score": 0.0247
+      },
+      {
+        "label": "surprise",
+        "score": 0.0127
+      },
+      {
+        "label": "fear",
+        "score": 0.007
+      },
+      {
+        "label": "joy",
+        "score": 0.0016
+      }
+    ]
+  },
+  {
+    "text": "I remember yelling at a stranger in traffic, my voice cracking, fists clenched so tight my nails left little half-moons in my palms.",
+    "emotions": [
+      {
+        "label": "anger",
+        "score": 0.8066
+      },
+      {
+        "label": "fear",
+        "score": 0.1408
+      },
+      {
+        "label": "disgust",
+        "score": 0.0211
+      },
+      {
+        "label": "neutral",
+        "score": 0.0129
+      },
+      {
+        "label": "sadness",
+        "score": 0.0086
+      },
+      {
+        "label": "surprise",
+        "score": 0.0083
+      },
+      {
+        "label": "joy",
+        "score": 0.0018
+      }
+    ]
+  },
+  {
+    "text": "It wasn’t about the traffic.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8988
+      },
+      {
+        "label": "disgust",
+        "score": 0.0568
+      },
+      {
+        "label": "anger",
+        "score": 0.0239
+      },
+      {
+        "label": "surprise",
+        "score": 0.0078
+      },
+      {
+        "label": "sadness",
+        "score": 0.0071
+      },
+      {
+        "label": "fear",
+        "score": 0.0034
+      },
+      {
+        "label": "joy",
+        "score": 0.0022
+      }
+    ]
+  },
+  {
+    "text": "It never is.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.7329
+      },
+      {
+        "label": "sadness",
+        "score": 0.1568
+      },
+      {
+        "label": "fear",
+        "score": 0.0358
+      },
+      {
+        "label": "disgust",
+        "score": 0.0258
+      },
+      {
+        "label": "surprise",
+        "score": 0.0224
+      },
+      {
+        "label": "anger",
+        "score": 0.0212
+      },
+      {
+        "label": "joy",
+        "score": 0.0051
+      }
+    ]
+  },
+  {
+    "text": "It was about everything.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.9066
+      },
+      {
+        "label": "disgust",
+        "score": 0.0398
+      },
+      {
+        "label": "anger",
+        "score": 0.0313
+      },
+      {
+        "label": "joy",
+        "score": 0.0066
+      },
+      {
+        "label": "surprise",
+        "score": 0.0061
+      },
+      {
+        "label": "fear",
+        "score": 0.0058
+      },
+      {
+        "label": "sadness",
+        "score": 0.0037
+      }
+    ]
+  },
+  {
+    "text": "All the apologies I never got.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.9005
+      },
+      {
+        "label": "neutral",
+        "score": 0.0392
+      },
+      {
+        "label": "anger",
+        "score": 0.0251
+      },
+      {
+        "label": "disgust",
+        "score": 0.0223
+      },
+      {
+        "label": "surprise",
+        "score": 0.0083
+      },
+      {
+        "label": "fear",
+        "score": 0.0024
+      },
+      {
+        "label": "joy",
+        "score": 0.0022
+      }
+    ]
+  },
+  {
+    "text": "All the wounds dressed up as lessons.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.6982
+      },
+      {
+        "label": "disgust",
+        "score": 0.2103
+      },
+      {
+        "label": "sadness",
+        "score": 0.038
+      },
+      {
+        "label": "surprise",
+        "score": 0.0196
+      },
+      {
+        "label": "anger",
+        "score": 0.0189
+      },
+      {
+        "label": "fear",
+        "score": 0.0093
+      },
+      {
+        "label": "joy",
+        "score": 0.0058
+      }
+    ]
+  },
+  {
+    "text": "All the times I bit my tongue because being angry meant being difficult, and being difficult meant being alone.",
+    "emotions": [
+      {
+        "label": "anger",
+        "score": 0.9813
+      },
+      {
+        "label": "sadness",
+        "score": 0.0065
+      },
+      {
+        "label": "fear",
+        "score": 0.004
+      },
+      {
+        "label": "disgust",
+        "score": 0.0037
+      },
+      {
+        "label": "neutral",
+        "score": 0.0035
+      },
+      {
+        "label": "joy",
+        "score": 0.0006
+      },
+      {
+        "label": "surprise",
+        "score": 0.0006
+      }
+    ]
+  },
+  {
+    "text": "I was tired of swallowing it.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.479
+      },
+      {
+        "label": "sadness",
+        "score": 0.3235
+      },
+      {
+        "label": "fear",
+        "score": 0.0901
+      },
+      {
+        "label": "neutral",
+        "score": 0.0576
+      },
+      {
+        "label": "anger",
+        "score": 0.0266
+      },
+      {
+        "label": "surprise",
+        "score": 0.0183
+      },
+      {
+        "label": "joy",
+        "score": 0.005
+      }
+    ]
+  },
+  {
+    "text": "Of shrinking to fit the spaces people allowed me.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.5413
+      },
+      {
+        "label": "anger",
+        "score": 0.2575
+      },
+      {
+        "label": "sadness",
+        "score": 0.1761
+      },
+      {
+        "label": "fear",
+        "score": 0.0109
+      },
+      {
+        "label": "neutral",
+        "score": 0.0099
+      },
+      {
+        "label": "joy",
+        "score": 0.0025
+      },
+      {
+        "label": "surprise",
+        "score": 0.0018
+      }
+    ]
+  },
+  {
+    "text": "I wanted to burn.",
+    "emotions": [
+      {
+        "label": "anger",
+        "score": 0.55
+      },
+      {
+        "label": "sadness",
+        "score": 0.3443
+      },
+      {
+        "label": "disgust",
+        "score": 0.0516
+      },
+      {
+        "label": "fear",
+        "score": 0.0388
+      },
+      {
+        "label": "neutral",
+        "score": 0.0104
+      },
+      {
+        "label": "surprise",
+        "score": 0.0027
+      },
+      {
+        "label": "joy",
+        "score": 0.0022
+      }
+    ]
+  },
+  {
+    "text": "And I did.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.5656
+      },
+      {
+        "label": "anger",
+        "score": 0.2462
+      },
+      {
+        "label": "disgust",
+        "score": 0.0946
+      },
+      {
+        "label": "fear",
+        "score": 0.0415
+      },
+      {
+        "label": "sadness",
+        "score": 0.0371
+      },
+      {
+        "label": "joy",
+        "score": 0.0076
+      },
+      {
+        "label": "surprise",
+        "score": 0.0075
+      }
+    ]
+  },
+  {
+    "text": "I scorched bridges I once tiptoed across.",
+    "emotions": [
+      {
+        "label": "anger",
+        "score": 0.8832
+      },
+      {
+        "label": "fear",
+        "score": 0.0542
+      },
+      {
+        "label": "disgust",
+        "score": 0.033
+      },
+      {
+        "label": "sadness",
+        "score": 0.0199
+      },
+      {
+        "label": "neutral",
+        "score": 0.006
+      },
+      {
+        "label": "surprise",
+        "score": 0.0027
+      },
+      {
+        "label": "joy",
+        "score": 0.0009
+      }
+    ]
+  },
+  {
+    "text": "I let the fire touch everything I had once protected, once pleaded for.",
+    "emotions": [
+      {
+        "label": "anger",
+        "score": 0.9275
+      },
+      {
+        "label": "disgust",
+        "score": 0.0315
+      },
+      {
+        "label": "fear",
+        "score": 0.0157
+      },
+      {
+        "label": "neutral",
+        "score": 0.0125
+      },
+      {
+        "label": "sadness",
+        "score": 0.011
+      },
+      {
+        "label": "joy",
+        "score": 0.0013
+      },
+      {
+        "label": "surprise",
+        "score": 0.0005
+      }
+    ]
+  },
+  {
+    "text": "It wasn’t pretty.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.6689
+      },
+      {
+        "label": "disgust",
+        "score": 0.1742
+      },
+      {
+        "label": "neutral",
+        "score": 0.0997
+      },
+      {
+        "label": "surprise",
+        "score": 0.0275
+      },
+      {
+        "label": "fear",
+        "score": 0.0134
+      },
+      {
+        "label": "anger",
+        "score": 0.0121
+      },
+      {
+        "label": "joy",
+        "score": 0.0042
+      }
+    ]
+  },
+  {
+    "text": "It wasn’t wise.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.4882
+      },
+      {
+        "label": "disgust",
+        "score": 0.2696
+      },
+      {
+        "label": "sadness",
+        "score": 0.1553
+      },
+      {
+        "label": "anger",
+        "score": 0.0546
+      },
+      {
+        "label": "fear",
+        "score": 0.0198
+      },
+      {
+        "label": "surprise",
+        "score": 0.0099
+      },
+      {
+        "label": "joy",
+        "score": 0.0025
+      }
+    ]
+  },
+  {
+    "text": "But it was real.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.594
+      },
+      {
+        "label": "surprise",
+        "score": 0.1901
+      },
+      {
+        "label": "sadness",
+        "score": 0.0717
+      },
+      {
+        "label": "disgust",
+        "score": 0.0543
+      },
+      {
+        "label": "anger",
+        "score": 0.0472
+      },
+      {
+        "label": "fear",
+        "score": 0.0338
+      },
+      {
+        "label": "joy",
+        "score": 0.0089
+      }
+    ]
+  },
+  {
+    "text": "People started looking at me differently.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.6687
+      },
+      {
+        "label": "neutral",
+        "score": 0.1665
+      },
+      {
+        "label": "anger",
+        "score": 0.0815
+      },
+      {
+        "label": "fear",
+        "score": 0.0379
+      },
+      {
+        "label": "surprise",
+        "score": 0.033
+      },
+      {
+        "label": "sadness",
+        "score": 0.0078
+      },
+      {
+        "label": "joy",
+        "score": 0.0045
+      }
+    ]
+  },
+  {
+    "text": "Some recoiled.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.5079
+      },
+      {
+        "label": "neutral",
+        "score": 0.3873
+      },
+      {
+        "label": "sadness",
+        "score": 0.0711
+      },
+      {
+        "label": "anger",
+        "score": 0.0197
+      },
+      {
+        "label": "surprise",
+        "score": 0.0059
+      },
+      {
+        "label": "joy",
+        "score": 0.005
+      },
+      {
+        "label": "fear",
+        "score": 0.0031
+      }
+    ]
+  },
+  {
+    "text": "Others stared with curiosity.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.5982
+      },
+      {
+        "label": "neutral",
+        "score": 0.2187
+      },
+      {
+        "label": "anger",
+        "score": 0.1272
+      },
+      {
+        "label": "fear",
+        "score": 0.0282
+      },
+      {
+        "label": "surprise",
+        "score": 0.0133
+      },
+      {
+        "label": "sadness",
+        "score": 0.0082
+      },
+      {
+        "label": "joy",
+        "score": 0.006
+      }
+    ]
+  },
+  {
+    "text": "Few understood.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.3422
+      },
+      {
+        "label": "neutral",
+        "score": 0.3396
+      },
+      {
+        "label": "surprise",
+        "score": 0.1513
+      },
+      {
+        "label": "sadness",
+        "score": 0.0769
+      },
+      {
+        "label": "anger",
+        "score": 0.0628
+      },
+      {
+        "label": "fear",
+        "score": 0.0232
+      },
+      {
+        "label": "joy",
+        "score": 0.0039
+      }
+    ]
+  },
+  {
+    "text": "That was fine.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.4626
+      },
+      {
+        "label": "anger",
+        "score": 0.2874
+      },
+      {
+        "label": "disgust",
+        "score": 0.1898
+      },
+      {
+        "label": "sadness",
+        "score": 0.0232
+      },
+      {
+        "label": "joy",
+        "score": 0.0219
+      },
+      {
+        "label": "fear",
+        "score": 0.0126
+      },
+      {
+        "label": "surprise",
+        "score": 0.0026
+      }
+    ]
+  },
+  {
+    "text": "I wasn’t doing this for them.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.5643
+      },
+      {
+        "label": "disgust",
+        "score": 0.2516
+      },
+      {
+        "label": "anger",
+        "score": 0.1281
+      },
+      {
+        "label": "sadness",
+        "score": 0.0385
+      },
+      {
+        "label": "fear",
+        "score": 0.0084
+      },
+      {
+        "label": "surprise",
+        "score": 0.0077
+      },
+      {
+        "label": "joy",
+        "score": 0.0015
+      }
+    ]
+  },
+  {
+    "text": "I was doing it for the part of me that had never been given permission to scream.",
+    "emotions": [
+      {
+        "label": "fear",
+        "score": 0.3637
+      },
+      {
+        "label": "anger",
+        "score": 0.2983
+      },
+      {
+        "label": "neutral",
+        "score": 0.2002
+      },
+      {
+        "label": "disgust",
+        "score": 0.0949
+      },
+      {
+        "label": "sadness",
+        "score": 0.0316
+      },
+      {
+        "label": "surprise",
+        "score": 0.009
+      },
+      {
+        "label": "joy",
+        "score": 0.0023
+      }
+    ]
+  },
+  {
+    "text": "But rage is exhausting.",
+    "emotions": [
+      {
+        "label": "anger",
+        "score": 0.9782
+      },
+      {
+        "label": "neutral",
+        "score": 0.0104
+      },
+      {
+        "label": "disgust",
+        "score": 0.005
+      },
+      {
+        "label": "sadness",
+        "score": 0.0032
+      },
+      {
+        "label": "surprise",
+        "score": 0.0016
+      },
+      {
+        "label": "fear",
+        "score": 0.0011
+      },
+      {
+        "label": "joy",
+        "score": 0.0005
+      }
+    ]
+  },
+  {
+    "text": "It lights you up, sure, but it also leaves ash in your mouth.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.704
+      },
+      {
+        "label": "neutral",
+        "score": 0.2077
+      },
+      {
+        "label": "sadness",
+        "score": 0.0325
+      },
+      {
+        "label": "anger",
+        "score": 0.0262
+      },
+      {
+        "label": "fear",
+        "score": 0.0203
+      },
+      {
+        "label": "surprise",
+        "score": 0.0054
+      },
+      {
+        "label": "joy",
+        "score": 0.0039
+      }
+    ]
+  },
+  {
+    "text": "There were mornings I couldn’t move.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.7996
+      },
+      {
+        "label": "fear",
+        "score": 0.1187
+      },
+      {
+        "label": "neutral",
+        "score": 0.0314
+      },
+      {
+        "label": "disgust",
+        "score": 0.0201
+      },
+      {
+        "label": "surprise",
+        "score": 0.0164
+      },
+      {
+        "label": "anger",
+        "score": 0.0127
+      },
+      {
+        "label": "joy",
+        "score": 0.0011
+      }
+    ]
+  },
+  {
+    "text": "Nights I couldn’t sleep.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.6844
+      },
+      {
+        "label": "fear",
+        "score": 0.1234
+      },
+      {
+        "label": "disgust",
+        "score": 0.0838
+      },
+      {
+        "label": "neutral",
+        "score": 0.0444
+      },
+      {
+        "label": "surprise",
+        "score": 0.0338
+      },
+      {
+        "label": "anger",
+        "score": 0.0269
+      },
+      {
+        "label": "joy",
+        "score": 0.0033
+      }
+    ]
+  },
+  {
+    "text": "My skin buzzed with all the things I wanted to destroy.",
+    "emotions": [
+      {
+        "label": "fear",
+        "score": 0.2773
+      },
+      {
+        "label": "anger",
+        "score": 0.2544
+      },
+      {
+        "label": "disgust",
+        "score": 0.1983
+      },
+      {
+        "label": "neutral",
+        "score": 0.1362
+      },
+      {
+        "label": "surprise",
+        "score": 0.0845
+      },
+      {
+        "label": "sadness",
+        "score": 0.0441
+      },
+      {
+        "label": "joy",
+        "score": 0.0053
+      }
+    ]
+  },
+  {
+    "text": "And then...",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8337
+      },
+      {
+        "label": "surprise",
+        "score": 0.0801
+      },
+      {
+        "label": "anger",
+        "score": 0.0316
+      },
+      {
+        "label": "disgust",
+        "score": 0.0212
+      },
+      {
+        "label": "joy",
+        "score": 0.0148
+      },
+      {
+        "label": "sadness",
+        "score": 0.0115
+      },
+      {
+        "label": "fear",
+        "score": 0.0071
+      }
+    ]
+  },
+  {
+    "text": "I met quiet again.",
+    "emotions": [
+      {
+        "label": "fear",
+        "score": 0.8341
+      },
+      {
+        "label": "sadness",
+        "score": 0.0984
+      },
+      {
+        "label": "anger",
+        "score": 0.0235
+      },
+      {
+        "label": "surprise",
+        "score": 0.0183
+      },
+      {
+        "label": "disgust",
+        "score": 0.013
+      },
+      {
+        "label": "neutral",
+        "score": 0.0097
+      },
+      {
+        "label": "joy",
+        "score": 0.003
+      }
+    ]
+  },
+  {
+    "text": "Not the heavy quiet of sadness.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.9646
+      },
+      {
+        "label": "neutral",
+        "score": 0.0231
+      },
+      {
+        "label": "disgust",
+        "score": 0.0042
+      },
+      {
+        "label": "surprise",
+        "score": 0.003
+      },
+      {
+        "label": "fear",
+        "score": 0.0022
+      },
+      {
+        "label": "joy",
+        "score": 0.0021
+      },
+      {
+        "label": "anger",
+        "score": 0.0009
+      }
+    ]
+  },
+  {
+    "text": "Not the tense quiet of anger held back.",
+    "emotions": [
+      {
+        "label": "anger",
+        "score": 0.9425
+      },
+      {
+        "label": "neutral",
+        "score": 0.0305
+      },
+      {
+        "label": "disgust",
+        "score": 0.0171
+      },
+      {
+        "label": "sadness",
+        "score": 0.0055
+      },
+      {
+        "label": "fear",
+        "score": 0.0022
+      },
+      {
+        "label": "surprise",
+        "score": 0.0014
+      },
+      {
+        "label": "joy",
+        "score": 0.0009
+      }
+    ]
+  },
+  {
+    "text": "But a different quiet.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8322
+      },
+      {
+        "label": "sadness",
+        "score": 0.0598
+      },
+      {
+        "label": "disgust",
+        "score": 0.0431
+      },
+      {
+        "label": "surprise",
+        "score": 0.0429
+      },
+      {
+        "label": "fear",
+        "score": 0.0098
+      },
+      {
+        "label": "joy",
+        "score": 0.0065
+      },
+      {
+        "label": "anger",
+        "score": 0.0056
+      }
+    ]
+  },
+  {
+    "text": "It came in the form of a small moment.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.5348
+      },
+      {
+        "label": "surprise",
+        "score": 0.3443
+      },
+      {
+        "label": "fear",
+        "score": 0.0539
+      },
+      {
+        "label": "joy",
+        "score": 0.0396
+      },
+      {
+        "label": "anger",
+        "score": 0.0139
+      },
+      {
+        "label": "disgust",
+        "score": 0.0109
+      },
+      {
+        "label": "sadness",
+        "score": 0.0026
+      }
+    ]
+  },
+  {
+    "text": "I was sitting in a park, watching a little girl chase soap bubbles, her laugh brighter than anything I had felt in months.",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.9017
+      },
+      {
+        "label": "neutral",
+        "score": 0.0704
+      },
+      {
+        "label": "disgust",
+        "score": 0.0133
+      },
+      {
+        "label": "surprise",
+        "score": 0.0055
+      },
+      {
+        "label": "anger",
+        "score": 0.0039
+      },
+      {
+        "label": "sadness",
+        "score": 0.0037
+      },
+      {
+        "label": "fear",
+        "score": 0.0015
+      }
+    ]
+  },
+  {
+    "text": "I don’t know why, but something in me cracked.",
+    "emotions": [
+      {
+        "label": "surprise",
+        "score": 0.5994
+      },
+      {
+        "label": "neutral",
+        "score": 0.1919
+      },
+      {
+        "label": "sadness",
+        "score": 0.0953
+      },
+      {
+        "label": "disgust",
+        "score": 0.0397
+      },
+      {
+        "label": "anger",
+        "score": 0.0357
+      },
+      {
+        "label": "fear",
+        "score": 0.0332
+      },
+      {
+        "label": "joy",
+        "score": 0.0047
+      }
+    ]
+  },
+  {
+    "text": "And not the kind of crack that leads to collapse — the kind that lets light in.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8547
+      },
+      {
+        "label": "surprise",
+        "score": 0.0571
+      },
+      {
+        "label": "disgust",
+        "score": 0.0337
+      },
+      {
+        "label": "anger",
+        "score": 0.0251
+      },
+      {
+        "label": "fear",
+        "score": 0.0146
+      },
+      {
+        "label": "sadness",
+        "score": 0.0107
+      },
+      {
+        "label": "joy",
+        "score": 0.004
+      }
+    ]
+  },
+  {
+    "text": "I didn’t cry.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.4454
+      },
+      {
+        "label": "neutral",
+        "score": 0.4124
+      },
+      {
+        "label": "disgust",
+        "score": 0.0436
+      },
+      {
+        "label": "surprise",
+        "score": 0.0356
+      },
+      {
+        "label": "joy",
+        "score": 0.0274
+      },
+      {
+        "label": "fear",
+        "score": 0.0207
+      },
+      {
+        "label": "anger",
+        "score": 0.0149
+      }
+    ]
+  },
+  {
+    "text": "I didn’t scream.",
+    "emotions": [
+      {
+        "label": "fear",
+        "score": 0.7051
+      },
+      {
+        "label": "anger",
+        "score": 0.1777
+      },
+      {
+        "label": "neutral",
+        "score": 0.0495
+      },
+      {
+        "label": "sadness",
+        "score": 0.0424
+      },
+      {
+        "label": "disgust",
+        "score": 0.0146
+      },
+      {
+        "label": "surprise",
+        "score": 0.0074
+      },
+      {
+        "label": "joy",
+        "score": 0.0034
+      }
+    ]
+  },
+  {
+    "text": "I just... breathed.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.6032
+      },
+      {
+        "label": "disgust",
+        "score": 0.1532
+      },
+      {
+        "label": "sadness",
+        "score": 0.0951
+      },
+      {
+        "label": "fear",
+        "score": 0.0605
+      },
+      {
+        "label": "surprise",
+        "score": 0.0561
+      },
+      {
+        "label": "anger",
+        "score": 0.0174
+      },
+      {
+        "label": "joy",
+        "score": 0.0143
+      }
+    ]
+  },
+  {
+    "text": "For the first time in what felt like years.",
+    "emotions": [
+      {
+        "label": "fear",
+        "score": 0.6168
+      },
+      {
+        "label": "joy",
+        "score": 0.1776
+      },
+      {
+        "label": "disgust",
+        "score": 0.0776
+      },
+      {
+        "label": "neutral",
+        "score": 0.0643
+      },
+      {
+        "label": "surprise",
+        "score": 0.0437
+      },
+      {
+        "label": "sadness",
+        "score": 0.0124
+      },
+      {
+        "label": "anger",
+        "score": 0.0075
+      }
+    ]
+  },
+  {
+    "text": "And in that breath, I found something I hadn’t dared to look for:",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.4177
+      },
+      {
+        "label": "disgust",
+        "score": 0.3425
+      },
+      {
+        "label": "surprise",
+        "score": 0.1264
+      },
+      {
+        "label": "fear",
+        "score": 0.0656
+      },
+      {
+        "label": "anger",
+        "score": 0.0383
+      },
+      {
+        "label": "sadness",
+        "score": 0.0053
+      },
+      {
+        "label": "joy",
+        "score": 0.0042
+      }
+    ]
+  },
+  {
+    "text": "Peace.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.6934
+      },
+      {
+        "label": "joy",
+        "score": 0.1427
+      },
+      {
+        "label": "disgust",
+        "score": 0.0622
+      },
+      {
+        "label": "sadness",
+        "score": 0.0578
+      },
+      {
+        "label": "anger",
+        "score": 0.0358
+      },
+      {
+        "label": "fear",
+        "score": 0.005
+      },
+      {
+        "label": "surprise",
+        "score": 0.003
+      }
+    ]
+  },
+  {
+    "text": "It didn’t come all at once.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.873
+      },
+      {
+        "label": "surprise",
+        "score": 0.0757
+      },
+      {
+        "label": "anger",
+        "score": 0.0166
+      },
+      {
+        "label": "sadness",
+        "score": 0.0158
+      },
+      {
+        "label": "disgust",
+        "score": 0.0083
+      },
+      {
+        "label": "fear",
+        "score": 0.0075
+      },
+      {
+        "label": "joy",
+        "score": 0.0031
+      }
+    ]
+  },
+  {
+    "text": "Healing is never linear.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8483
+      },
+      {
+        "label": "disgust",
+        "score": 0.091
+      },
+      {
+        "label": "anger",
+        "score": 0.0268
+      },
+      {
+        "label": "sadness",
+        "score": 0.0165
+      },
+      {
+        "label": "fear",
+        "score": 0.0089
+      },
+      {
+        "label": "surprise",
+        "score": 0.0063
+      },
+      {
+        "label": "joy",
+        "score": 0.0022
+      }
+    ]
+  },
+  {
+    "text": "But I started seeing colors again.",
+    "emotions": [
+      {
+        "label": "surprise",
+        "score": 0.3214
+      },
+      {
+        "label": "neutral",
+        "score": 0.2258
+      },
+      {
+        "label": "disgust",
+        "score": 0.21
+      },
+      {
+        "label": "fear",
+        "score": 0.1568
+      },
+      {
+        "label": "sadness",
+        "score": 0.0459
+      },
+      {
+        "label": "anger",
+        "score": 0.0295
+      },
+      {
+        "label": "joy",
+        "score": 0.0107
+      }
+    ]
+  },
+  {
+    "text": "I started hearing songs without them hurting.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.754
+      },
+      {
+        "label": "neutral",
+        "score": 0.0961
+      },
+      {
+        "label": "sadness",
+        "score": 0.0655
+      },
+      {
+        "label": "joy",
+        "score": 0.0441
+      },
+      {
+        "label": "anger",
+        "score": 0.0241
+      },
+      {
+        "label": "surprise",
+        "score": 0.0087
+      },
+      {
+        "label": "fear",
+        "score": 0.0075
+      }
+    ]
+  },
+  {
+    "text": "I started reaching out, not for help, but to help.",
+    "emotions": [
+      {
+        "label": "fear",
+        "score": 0.4343
+      },
+      {
+        "label": "anger",
+        "score": 0.2168
+      },
+      {
+        "label": "sadness",
+        "score": 0.1557
+      },
+      {
+        "label": "disgust",
+        "score": 0.1014
+      },
+      {
+        "label": "neutral",
+        "score": 0.0674
+      },
+      {
+        "label": "joy",
+        "score": 0.0142
+      },
+      {
+        "label": "surprise",
+        "score": 0.0103
+      }
+    ]
+  },
+  {
+    "text": "I forgave people.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.3973
+      },
+      {
+        "label": "sadness",
+        "score": 0.3476
+      },
+      {
+        "label": "anger",
+        "score": 0.1172
+      },
+      {
+        "label": "neutral",
+        "score": 0.1119
+      },
+      {
+        "label": "joy",
+        "score": 0.018
+      },
+      {
+        "label": "surprise",
+        "score": 0.0042
+      },
+      {
+        "label": "fear",
+        "score": 0.0038
+      }
+    ]
+  },
+  {
+    "text": "Not for them.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.7622
+      },
+      {
+        "label": "disgust",
+        "score": 0.0888
+      },
+      {
+        "label": "anger",
+        "score": 0.0651
+      },
+      {
+        "label": "sadness",
+        "score": 0.0636
+      },
+      {
+        "label": "surprise",
+        "score": 0.0116
+      },
+      {
+        "label": "fear",
+        "score": 0.0055
+      },
+      {
+        "label": "joy",
+        "score": 0.0032
+      }
+    ]
+  },
+  {
+    "text": "For me.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.4018
+      },
+      {
+        "label": "fear",
+        "score": 0.2488
+      },
+      {
+        "label": "sadness",
+        "score": 0.1303
+      },
+      {
+        "label": "anger",
+        "score": 0.0766
+      },
+      {
+        "label": "disgust",
+        "score": 0.072
+      },
+      {
+        "label": "joy",
+        "score": 0.0579
+      },
+      {
+        "label": "surprise",
+        "score": 0.0125
+      }
+    ]
+  },
+  {
+    "text": "Because dragging that weight behind me was killing whatever was left of the good.",
+    "emotions": [
+      {
+        "label": "anger",
+        "score": 0.7032
+      },
+      {
+        "label": "disgust",
+        "score": 0.2603
+      },
+      {
+        "label": "sadness",
+        "score": 0.0173
+      },
+      {
+        "label": "neutral",
+        "score": 0.0104
+      },
+      {
+        "label": "fear",
+        "score": 0.0074
+      },
+      {
+        "label": "surprise",
+        "score": 0.0007
+      },
+      {
+        "label": "joy",
+        "score": 0.0007
+      }
+    ]
+  },
+  {
+    "text": "I forgave myself.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.7364
+      },
+      {
+        "label": "disgust",
+        "score": 0.1157
+      },
+      {
+        "label": "neutral",
+        "score": 0.1024
+      },
+      {
+        "label": "anger",
+        "score": 0.0269
+      },
+      {
+        "label": "joy",
+        "score": 0.0084
+      },
+      {
+        "label": "fear",
+        "score": 0.0067
+      },
+      {
+        "label": "surprise",
+        "score": 0.0035
+      }
+    ]
+  },
+  {
+    "text": "That was the hardest part.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.5061
+      },
+      {
+        "label": "sadness",
+        "score": 0.2672
+      },
+      {
+        "label": "neutral",
+        "score": 0.1027
+      },
+      {
+        "label": "fear",
+        "score": 0.0687
+      },
+      {
+        "label": "anger",
+        "score": 0.0275
+      },
+      {
+        "label": "surprise",
+        "score": 0.0195
+      },
+      {
+        "label": "joy",
+        "score": 0.0083
+      }
+    ]
+  },
+  {
+    "text": "I had to look at the mess I had made — the fires, the silences, the damage — and say, \"It’s okay.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.6117
+      },
+      {
+        "label": "disgust",
+        "score": 0.1988
+      },
+      {
+        "label": "anger",
+        "score": 0.1444
+      },
+      {
+        "label": "sadness",
+        "score": 0.0165
+      },
+      {
+        "label": "fear",
+        "score": 0.0151
+      },
+      {
+        "label": "joy",
+        "score": 0.0103
+      },
+      {
+        "label": "surprise",
+        "score": 0.0031
+      }
+    ]
+  },
+  {
+    "text": "You were surviving the only way you knew how.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.9306
+      },
+      {
+        "label": "surprise",
+        "score": 0.0206
+      },
+      {
+        "label": "sadness",
+        "score": 0.0145
+      },
+      {
+        "label": "anger",
+        "score": 0.0091
+      },
+      {
+        "label": "fear",
+        "score": 0.0088
+      },
+      {
+        "label": "joy",
+        "score": 0.0085
+      },
+      {
+        "label": "disgust",
+        "score": 0.0079
+      }
+    ]
+  },
+  {
+    "text": "\"",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8478
+      },
+      {
+        "label": "surprise",
+        "score": 0.0381
+      },
+      {
+        "label": "sadness",
+        "score": 0.0305
+      },
+      {
+        "label": "disgust",
+        "score": 0.0284
+      },
+      {
+        "label": "fear",
+        "score": 0.0255
+      },
+      {
+        "label": "anger",
+        "score": 0.024
+      },
+      {
+        "label": "joy",
+        "score": 0.0059
+      }
+    ]
+  },
+  {
+    "text": "And once I said that, once I truly believed it, joy didn’t feel like a betrayal anymore.",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.3553
+      },
+      {
+        "label": "sadness",
+        "score": 0.3049
+      },
+      {
+        "label": "neutral",
+        "score": 0.1448
+      },
+      {
+        "label": "disgust",
+        "score": 0.1212
+      },
+      {
+        "label": "anger",
+        "score": 0.0676
+      },
+      {
+        "label": "fear",
+        "score": 0.0038
+      },
+      {
+        "label": "surprise",
+        "score": 0.0024
+      }
+    ]
+  },
+  {
+    "text": "It felt like coming home.",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.5026
+      },
+      {
+        "label": "neutral",
+        "score": 0.2875
+      },
+      {
+        "label": "fear",
+        "score": 0.0764
+      },
+      {
+        "label": "sadness",
+        "score": 0.0501
+      },
+      {
+        "label": "surprise",
+        "score": 0.0446
+      },
+      {
+        "label": "disgust",
+        "score": 0.03
+      },
+      {
+        "label": "anger",
+        "score": 0.0089
+      }
+    ]
+  },
+  {
+    "text": "I smiled without forcing it.",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.8802
+      },
+      {
+        "label": "neutral",
+        "score": 0.0657
+      },
+      {
+        "label": "disgust",
+        "score": 0.0239
+      },
+      {
+        "label": "anger",
+        "score": 0.0147
+      },
+      {
+        "label": "sadness",
+        "score": 0.0098
+      },
+      {
+        "label": "surprise",
+        "score": 0.0053
+      },
+      {
+        "label": "fear",
+        "score": 0.0004
+      }
+    ]
+  },
+  {
+    "text": "I laughed.",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.8484
+      },
+      {
+        "label": "neutral",
+        "score": 0.0952
+      },
+      {
+        "label": "disgust",
+        "score": 0.0204
+      },
+      {
+        "label": "anger",
+        "score": 0.0122
+      },
+      {
+        "label": "sadness",
+        "score": 0.012
+      },
+      {
+        "label": "surprise",
+        "score": 0.0105
+      },
+      {
+        "label": "fear",
+        "score": 0.0012
+      }
+    ]
+  },
+  {
+    "text": "Loudly.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.6642
+      },
+      {
+        "label": "sadness",
+        "score": 0.1904
+      },
+      {
+        "label": "disgust",
+        "score": 0.085
+      },
+      {
+        "label": "joy",
+        "score": 0.0195
+      },
+      {
+        "label": "fear",
+        "score": 0.0158
+      },
+      {
+        "label": "anger",
+        "score": 0.0136
+      },
+      {
+        "label": "surprise",
+        "score": 0.0115
+      }
+    ]
+  },
+  {
+    "text": "Clumsily.",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.6277
+      },
+      {
+        "label": "neutral",
+        "score": 0.2795
+      },
+      {
+        "label": "sadness",
+        "score": 0.0411
+      },
+      {
+        "label": "disgust",
+        "score": 0.0308
+      },
+      {
+        "label": "surprise",
+        "score": 0.0088
+      },
+      {
+        "label": "anger",
+        "score": 0.0073
+      },
+      {
+        "label": "fear",
+        "score": 0.0049
+      }
+    ]
+  },
+  {
+    "text": "I danced in my kitchen at midnight.",
+    "emotions": [
+      {
+        "label": "fear",
+        "score": 0.4233
+      },
+      {
+        "label": "joy",
+        "score": 0.1317
+      },
+      {
+        "label": "sadness",
+        "score": 0.1308
+      },
+      {
+        "label": "surprise",
+        "score": 0.1048
+      },
+      {
+        "label": "neutral",
+        "score": 0.0917
+      },
+      {
+        "label": "disgust",
+        "score": 0.0795
+      },
+      {
+        "label": "anger",
+        "score": 0.0383
+      }
+    ]
+  },
+  {
+    "text": "I let myself be loved again.",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.8524
+      },
+      {
+        "label": "sadness",
+        "score": 0.123
+      },
+      {
+        "label": "neutral",
+        "score": 0.01
+      },
+      {
+        "label": "anger",
+        "score": 0.0063
+      },
+      {
+        "label": "disgust",
+        "score": 0.0042
+      },
+      {
+        "label": "fear",
+        "score": 0.0031
+      },
+      {
+        "label": "surprise",
+        "score": 0.0011
+      }
+    ]
+  },
+  {
+    "text": "It wasn’t perfect.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.4927
+      },
+      {
+        "label": "sadness",
+        "score": 0.3448
+      },
+      {
+        "label": "disgust",
+        "score": 0.0834
+      },
+      {
+        "label": "fear",
+        "score": 0.0366
+      },
+      {
+        "label": "anger",
+        "score": 0.0236
+      },
+      {
+        "label": "surprise",
+        "score": 0.0145
+      },
+      {
+        "label": "joy",
+        "score": 0.0045
+      }
+    ]
+  },
+  {
+    "text": "Nothing ever is.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.4226
+      },
+      {
+        "label": "anger",
+        "score": 0.1907
+      },
+      {
+        "label": "disgust",
+        "score": 0.1365
+      },
+      {
+        "label": "sadness",
+        "score": 0.0971
+      },
+      {
+        "label": "fear",
+        "score": 0.093
+      },
+      {
+        "label": "joy",
+        "score": 0.0331
+      },
+      {
+        "label": "surprise",
+        "score": 0.027
+      }
+    ]
+  },
+  {
+    "text": "But it was real.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.594
+      },
+      {
+        "label": "surprise",
+        "score": 0.1901
+      },
+      {
+        "label": "sadness",
+        "score": 0.0717
+      },
+      {
+        "label": "disgust",
+        "score": 0.0543
+      },
+      {
+        "label": "anger",
+        "score": 0.0472
+      },
+      {
+        "label": "fear",
+        "score": 0.0338
+      },
+      {
+        "label": "joy",
+        "score": 0.0089
+      }
+    ]
+  },
+  {
+    "text": "And that made all the difference.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8516
+      },
+      {
+        "label": "surprise",
+        "score": 0.0576
+      },
+      {
+        "label": "anger",
+        "score": 0.0344
+      },
+      {
+        "label": "joy",
+        "score": 0.0289
+      },
+      {
+        "label": "disgust",
+        "score": 0.0198
+      },
+      {
+        "label": "sadness",
+        "score": 0.0051
+      },
+      {
+        "label": "fear",
+        "score": 0.0026
+      }
+    ]
+  },
+  {
+    "text": "Today, I walked by a mirror and didn’t flinch.",
+    "emotions": [
+      {
+        "label": "anger",
+        "score": 0.51
+      },
+      {
+        "label": "fear",
+        "score": 0.1944
+      },
+      {
+        "label": "disgust",
+        "score": 0.1451
+      },
+      {
+        "label": "neutral",
+        "score": 0.1279
+      },
+      {
+        "label": "sadness",
+        "score": 0.0165
+      },
+      {
+        "label": "joy",
+        "score": 0.0039
+      },
+      {
+        "label": "surprise",
+        "score": 0.0022
+      }
+    ]
+  },
+  {
+    "text": "Today, I saw someone struggling and didn’t look away.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.6873
+      },
+      {
+        "label": "fear",
+        "score": 0.1021
+      },
+      {
+        "label": "sadness",
+        "score": 0.0991
+      },
+      {
+        "label": "neutral",
+        "score": 0.0928
+      },
+      {
+        "label": "anger",
+        "score": 0.0117
+      },
+      {
+        "label": "surprise",
+        "score": 0.0057
+      },
+      {
+        "label": "joy",
+        "score": 0.0013
+      }
+    ]
+  },
+  {
+    "text": "Today, I thanked the version of me who held on through the darkness — the one who cried, and screamed, and almost gave up, but didn’t.",
+    "emotions": [
+      {
+        "label": "sadness",
+        "score": 0.6929
+      },
+      {
+        "label": "neutral",
+        "score": 0.2276
+      },
+      {
+        "label": "fear",
+        "score": 0.0321
+      },
+      {
+        "label": "joy",
+        "score": 0.0138
+      },
+      {
+        "label": "disgust",
+        "score": 0.0131
+      },
+      {
+        "label": "anger",
+        "score": 0.0116
+      },
+      {
+        "label": "surprise",
+        "score": 0.009
+      }
+    ]
+  },
+  {
+    "text": "Today, I chose to live.",
+    "emotions": [
+      {
+        "label": "joy",
+        "score": 0.6835
+      },
+      {
+        "label": "neutral",
+        "score": 0.1343
+      },
+      {
+        "label": "sadness",
+        "score": 0.1219
+      },
+      {
+        "label": "anger",
+        "score": 0.0287
+      },
+      {
+        "label": "disgust",
+        "score": 0.0218
+      },
+      {
+        "label": "fear",
+        "score": 0.0074
+      },
+      {
+        "label": "surprise",
+        "score": 0.0023
+      }
+    ]
+  },
+  {
+    "text": "And tomorrow, I will choose again.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.5028
+      },
+      {
+        "label": "sadness",
+        "score": 0.2495
+      },
+      {
+        "label": "fear",
+        "score": 0.1165
+      },
+      {
+        "label": "disgust",
+        "score": 0.082
+      },
+      {
+        "label": "anger",
+        "score": 0.034
+      },
+      {
+        "label": "joy",
+        "score": 0.0085
+      },
+      {
+        "label": "surprise",
+        "score": 0.0068
+      }
+    ]
+  },
+  {
+    "text": "Because now I know: even in the deepest pit, there is a ladder.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.7771
+      },
+      {
+        "label": "disgust",
+        "score": 0.0997
+      },
+      {
+        "label": "surprise",
+        "score": 0.0517
+      },
+      {
+        "label": "fear",
+        "score": 0.0373
+      },
+      {
+        "label": "anger",
+        "score": 0.0222
+      },
+      {
+        "label": "sadness",
+        "score": 0.0086
+      },
+      {
+        "label": "joy",
+        "score": 0.0034
+      }
+    ]
+  },
+  {
+    "text": "Even in silence, there’s a heartbeat.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.8008
+      },
+      {
+        "label": "surprise",
+        "score": 0.0786
+      },
+      {
+        "label": "disgust",
+        "score": 0.0652
+      },
+      {
+        "label": "fear",
+        "score": 0.0273
+      },
+      {
+        "label": "sadness",
+        "score": 0.0156
+      },
+      {
+        "label": "anger",
+        "score": 0.0071
+      },
+      {
+        "label": "joy",
+        "score": 0.0055
+      }
+    ]
+  },
+  {
+    "text": "Even in ruin, something green can grow.",
+    "emotions": [
+      {
+        "label": "disgust",
+        "score": 0.5173
+      },
+      {
+        "label": "neutral",
+        "score": 0.2574
+      },
+      {
+        "label": "sadness",
+        "score": 0.1503
+      },
+      {
+        "label": "anger",
+        "score": 0.0548
+      },
+      {
+        "label": "fear",
+        "score": 0.0121
+      },
+      {
+        "label": "joy",
+        "score": 0.0051
+      },
+      {
+        "label": "surprise",
+        "score": 0.003
+      }
+    ]
+  },
+  {
+    "text": "And that’s enough.",
+    "emotions": [
+      {
+        "label": "neutral",
+        "score": 0.902
+      },
+      {
+        "label": "joy",
+        "score": 0.0409
+      },
+      {
+        "label": "anger",
+        "score": 0.0196
+      },
+      {
+        "label": "disgust",
+        "score": 0.0193
+      },
+      {
+        "label": "surprise",
+        "score": 0.0131
+      },
+      {
+        "label": "sadness",
+        "score": 0.0041
+      },
+      {
+        "label": "fear",
+        "score": 0.001
+      }
+    ]
+  }
+]
